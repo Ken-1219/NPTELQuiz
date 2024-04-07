@@ -17,10 +17,14 @@ function SocialQuizCard({ data: weekData }) {
     const [savedOptions, setSavedOptions] = useState(new Array(weekData.length).fill(null));
     const [quesImage, setQuesImage] = useState(weekData[index].questionImage);
     const [isMultiCorrect, setIsMultiCorrect] = useState(weekData[index].multicorrect);
+    const [isSaved, setIsSaved] = useState(null);
+    const [isCorrect, setIsCorrect] = useState(null);
+
 
     useEffect(() => {
         setQuestion(weekData[index].question);
         setOptions(weekData[index].options);
+
         //Since page is changed, update the previous selected option from savedOptions array.
         setSelectedOption(savedOptions[index]);
         setQuesImage(weekData[index].questionImage);
@@ -40,16 +44,20 @@ function SocialQuizCard({ data: weekData }) {
     }, [index]);
 
     const handleOptionSelect = (option) => {
-        setSelectedOption(option);
+        if (savedOptions[index] === null) {
+            setSelectedOption(option);
+        }
     };
 
     const handleNextButton = () => {
+        setIsSaved(null);
         if (index < weekData.length - 1) {
             setIndex(index + 1);
         }
     };
 
     const handlePrevButton = () => {
+        setIsSaved(null);
         if (index > 0) {
             setIndex(index - 1);
         }
@@ -58,11 +66,6 @@ function SocialQuizCard({ data: weekData }) {
     const handleSaveButton = () => {
         if (!selectedOption) return;
 
-
-        const newSavedOptions = [...savedOptions];
-        newSavedOptions[index] = selectedOption;
-        setSavedOptions(newSavedOptions);
-
         // Check if option is already selected for this question
         const prevSelectedOption = savedOptions[index];
 
@@ -70,20 +73,23 @@ function SocialQuizCard({ data: weekData }) {
             setAttemptedCount(attemptedCount + 1);
         }
 
-        // Update correct count if option is selected and correct
-        if (selectedOption && selectedOption.isCorrect && !prevSelectedOption) {
-            setCorrectCount(correctCount + 1);
-        }
-        else if (prevSelectedOption && prevSelectedOption.isCorrect && selectedOption && !selectedOption.isCorrect) {
-            // If previously selected option was correct and now user marked wrong, reduce correctCount
-            setCorrectCount(correctCount - 1);
-        }
-        else if (prevSelectedOption && selectedOption && selectedOption.isCorrect) {
-            // If previously selected option was wrong and now user selects correct, increase correctCount
-            setCorrectCount(correctCount + 1);
-        }
+        setIsSaved(true);
 
-        handleNextButton();
+        const newSavedOptions = [...savedOptions];
+        newSavedOptions[index] = selectedOption;
+        setSavedOptions(newSavedOptions);
+
+        if (selectedOption.isCorrect) {
+            console.log("Selected option is correct");
+            setIsCorrect(true);
+            if (!prevSelectedOption) {
+                setCorrectCount(correctCount + 1);
+            }
+        }
+        else {
+            console.log("Selected option is wrong");
+            setIsCorrect(false);
+        }
 
     };
 
@@ -109,6 +115,15 @@ function SocialQuizCard({ data: weekData }) {
                 isMultiCorrect={isMultiCorrect}
 
             />
+
+
+            {/* Correct or Incorrect */}
+            {isSaved && (
+                <h1 className={`md:text-2xl text-lg font-semibold text-center mt-10 ${isCorrect ? 'text-green-500' : 'text-red-400'}`}>
+                    {isCorrect ? 'Correct' : 'Incorrect'}
+                </h1>
+            )}
+
 
             {/* {/* buttons */}
             <div

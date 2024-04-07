@@ -2,7 +2,6 @@
 
 import React, { useEffect, useState } from 'react';
 import { useRouter } from 'next/navigation';
-import Link from 'next/link';
 
 function CognitiveQuizCard({ data: weekData }) {
     const router = useRouter();
@@ -14,38 +13,44 @@ function CognitiveQuizCard({ data: weekData }) {
     const [correctCount, setCorrectCount] = useState(0);
     const [attemptedCount, setAttemptedCount] = useState(0);
     const [savedOptions, setSavedOptions] = useState(new Array(weekData.length).fill(null));
+    const [isCorrect, setIsCorrect] = useState(null);
+    const [isSaved, setIsSaved] = useState(null);
 
     useEffect(() => {
         setQuestion(weekData[index].question);
         setOptions(weekData[index].options);
+
         //Since page is changed, update the previous selected option from savedOptions array.
         setSelectedOption(savedOptions[index]);
+   
         console.log(correctCount, attemptedCount);
+
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [index, weekData, savedOptions]);
 
     const handleOptionSelect = (option) => {
-        setSelectedOption(option);
+        if (savedOptions[index] === null) {
+            setSelectedOption(option);
+        }
     };
 
     const handleNextButton = () => {
+        setIsSaved(null);
         if (index < weekData.length - 1) {
             setIndex(index + 1);
         }
     };
 
     const handlePrevButton = () => {
+        setIsSaved(null);
         if (index > 0) {
             setIndex(index - 1);
         }
     };
 
     const handleSaveButton = () => {
+
         if (!selectedOption) return;
-        // Update saved options
-        const newSavedOptions = [...savedOptions];
-        newSavedOptions[index] = selectedOption;
-        setSavedOptions(newSavedOptions);
 
         // Check if option is already selected for this question
         const prevSelectedOption = savedOptions[index];
@@ -54,21 +59,24 @@ function CognitiveQuizCard({ data: weekData }) {
             setAttemptedCount(attemptedCount + 1);
         }
 
-        // Update correct count if option is selected and correct
-        if (selectedOption && selectedOption.isCorrect && !prevSelectedOption) {
-            setCorrectCount(correctCount + 1);
-        }
-        else if (prevSelectedOption && prevSelectedOption.isCorrect && selectedOption && !selectedOption.isCorrect) {
-            // If previously selected option was correct and now user marked wrong, reduce correctCount
-            setCorrectCount(correctCount - 1);
-        }
-        else if (prevSelectedOption && selectedOption && selectedOption.isCorrect) {
-            // If previously selected option was wrong and now user selects correct, increase correctCount
-            setCorrectCount(correctCount + 1);
-        }
+        setIsSaved(true);
 
-        handleNextButton();
-    };
+        const newSavedOptions = [...savedOptions];
+        newSavedOptions[index] = selectedOption;
+        setSavedOptions(newSavedOptions);
+
+        if (selectedOption.isCorrect) {
+            console.log("Selected option is correct");
+            setIsCorrect(true);
+            if (!prevSelectedOption) {
+                setCorrectCount(correctCount + 1);
+            }
+        }
+        else {
+            console.log("Selected option is wrong");
+            setIsCorrect(false);
+        }
+    }
 
 
     useEffect(() => {
@@ -103,8 +111,9 @@ function CognitiveQuizCard({ data: weekData }) {
                         {options.map((option) => (
                             <div key={option.id}>
                                 <div
-
-                                    className={`flex justify-center items-center w-full px-12 p-2 m-2 rounded-md hover:bg-indigo-200 hover:text-indigo-500 cursor-pointer ${selectedOption === option ? 'bg-indigo-500' : ''}  ${selectedOption === option ? 'text-white' : 'text-midnight'} transition duration-100 ease-in-out`}
+                                    className={`flex justify-center items-center w-full px-12 p-2 m-2 rounded-md hover:bg-indigo-200 hover:text-indigo-500 cursor-pointer
+                                    ${selectedOption === option ? 'bg-indigo-500' : ''}
+                                    ${selectedOption === option ? 'text-white' : 'text-midnight'} transition duration-100 ease-in-out`}
                                     onClick={() => handleOptionSelect(option)}>
                                     <h1
                                         className='md:text-xl text-lg font-medium capitalize text-left'>{option.text}</h1>
@@ -112,6 +121,14 @@ function CognitiveQuizCard({ data: weekData }) {
                             </div>
                         ))}
                     </div>
+
+                    {/* Correct or Incorrect */}
+                    {isSaved && (
+                        <h1 className={`md:text-2xl text-lg font-semibold text-center mt-10 ${isCorrect ? 'text-green-500' : 'text-red-400'}`}>
+                            {isCorrect ? 'Correct' : 'Incorrect'}
+                        </h1>
+                    )}
+
 
                     {/* buttons */}
                     <div
@@ -139,7 +156,6 @@ function CognitiveQuizCard({ data: weekData }) {
 
                         {/* Submit Button */}
                         <button
-                            // href={{ pathname: '/result', query: { correctCount, attemptedCount } }}
                             onClick={handleSubmit}
                             className={`h-10 w-28 bg-indigo-700 p-4 flex justify-center items-center text-white rounded-xl hover:bg-indigo-800 font-bold my-2 ${index !== weekData.length - 1 ? 'hidden' : 'block'}`}>
                             Submit
@@ -152,3 +168,4 @@ function CognitiveQuizCard({ data: weekData }) {
 }
 
 export default CognitiveQuizCard;
+

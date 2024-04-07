@@ -1,0 +1,323 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following is the output of the given code segment?",
+    "questionImage": "/images/w1q1.png",
+    "multicorrect":false,
+    "options": [
+      { 
+        "id": 1, 
+        "text": "[5,'AAA',[2, 3]]", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 2, 
+        "text": "[5,'AAA',[2, 3]]", 
+        "isCorrect": true,
+        "image": ""
+      },
+      { 
+        "id": 3, 
+        "text": "[5,'AAA',2,3]", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 4, 
+        "text": "error", 
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Assume you have to roll a dice with six faces. Choose the statement to simulate the same",
+    "questionImage": "",
+    "multicorrect":false,
+    "options": [
+      { 
+        "id": 1, 
+        "text": "random.randint(1, 6)", 
+        "isCorrect": true,
+        "image": ""
+      },
+      { 
+        "id": 2, 
+        "text": "random.randrange(1, 8)", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 3, 
+        "text": "random.randint(1, 7)", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 4, 
+        "text": "random.randrange(1,6)", 
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Select the code to create the given dictionary:\n{1 : 2, 2 : 4, 3 : 6, 4 : 8, 5 : 10, 6 : 12, 7 : 14, 8 : 16, 9 : 18}",
+    "questionImage": "",
+    "multicorrect":false,
+    "options": [
+      { 
+        "id": 1, 
+        "text": "d={x:x**2 for x in range(1,10)}\nprint(d)", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 2, 
+        "text": "d={x:x*2 for x in range(1,9)}\nprint(d)", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 3, 
+        "text": "d={x:x*2 for x in range(1,10)}\nprint(d)", 
+        "isCorrect": true,
+        "image": ""
+      },
+      { 
+        "id": 4, 
+        "text": "d={x:x**2 for x in range(1,9)}\nprint(d)", 
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "What does the G(n,p) random graph model in Networkx library represent?",
+    "questionImage": "",
+    "multicorrect":false,
+    "options": [
+      { 
+        "id": 1, 
+        "text": "A graph with n nodes and p edges", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 2, 
+        "text": "A graph with n nodes and p is the probability of an edge between any two nodes", 
+        "isCorrect": true,
+        "image": ""
+      },
+      { 
+        "id": 3, 
+        "text": "A graph with n nodes and p-1 edges", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 4, 
+        "text": "A graph with n nodes and p is the probability of a path of any length between every two nodes", 
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "What is the output of the following code snippet?",
+    "questionImage": "/images/w1q4.png",
+    "multicorrect":false,
+    "options": [
+      { 
+        "id": 1, 
+        "text": "0", 
+        "isCorrect": true,
+        "image": ""
+      },
+      { 
+        "id": 2, 
+        "text": "1", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 3, 
+        "text": "2", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 4, 
+        "text": "3", 
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "Which of the following functions is used to find the shortest path length?",
+    "questionImage": "",
+    "multicorrect":false,
+    "options": [
+      { 
+        "id": 1, 
+        "text": "networkx.dijkstra_path_length(G,'node a')", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 2, 
+        "text": "networkx.dijkstra_path_length('node a','node b')", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 3, 
+        "text": "networkx.dijkstra_path_length('node a','node b',G)", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 4, 
+        "text": "networkx.dijkstra_path_length(G,'node a','node b')", 
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "What does the Page Rank algorithm measure?",
+    "questionImage": "",
+    "multicorrect":false,
+    "options": [
+      { 
+        "id": 1, 
+        "text": "The number of friends a person has in the social network", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 2, 
+        "text": "The person who is more important in the network", 
+        "isCorrect": true,
+        "image": ""
+      },
+      { 
+        "id": 3, 
+        "text": "The person who is very frequently posting content on the social network", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 4, 
+        "text": "The total number of connections in the network", 
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "The code inside the ‘try’ block is monitored for any exceptions. The ‘except’ block contains the code to handle the exception, providing an alternative path for the program to continue execution. Find the output for the given code snippet:",
+    "questionImage": "/images/w1q7.png",
+    "multicorrect":false,
+    "options": [
+      { 
+        "id": 1, 
+        "text": "Element does not exist", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 2, 
+        "text": "It is an even number", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 3, 
+        "text": "It is an odd number", 
+        "isCorrect": true,
+        "image": ""
+      },
+      { 
+        "id": 4, 
+        "text": "error", 
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "What is the maximum number of graphs possible from 70 nodes?",
+    "questionImage": "",
+    "multicorrect":false,
+    "options": [
+      { 
+        "id": 1, 
+        "text": "2^70", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 2, 
+        "text": "2^(70C2)", 
+        "isCorrect": true,
+        "image": ""
+      },
+      { 
+        "id": 3, 
+        "text": "70C2", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 4, 
+        "text": "70^2", 
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "Which algorithm or concept should be used to suggest connections on LinkedIn?",
+    "questionImage": "",
+    "multicorrect":false,
+    "options": [
+      { 
+        "id": 1, 
+        "text": "Link Prediction", 
+        "isCorrect": true,
+        "image": ""
+      },
+      { 
+        "id": 2, 
+        "text": "Page Ranking", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 3, 
+        "text": "Hits algorithm", 
+        "isCorrect": false,
+        "image": ""
+      },
+      { 
+        "id": 4, 
+        "text": "BFS", 
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  }
+
+]

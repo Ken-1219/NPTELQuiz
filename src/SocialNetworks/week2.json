@@ -1,0 +1,322 @@
+[
+  {
+    "id": 1,
+    "question": "Which of the following statements is/are True?\nStatement I - Email network is a directed network.\nStatement II - Co-authorship network is an undirected network.",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "I only",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "II only",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Both",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "None",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "What is the clustering coefficient of a node that has 4 neighbors and 3 connections between those neighbors?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "0.25",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "0.5",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "0.75",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "1",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "Calculate the density of the given graph.",
+    "questionImage": "/images/w2q3.png",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "10/21",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "9/42",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "9/21",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "10/42",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "question": "Find the clustering coefficient of node B in the given graph.",
+    "questionImage": "/images/w2q4.png",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "0.667",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "0.69",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "0.63",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "none",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "question": "Which statement accurately reflects the characteristics of node degrees according to Power law?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "every individual in a social network has an equal number of connections",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "exhibit a uniform distribution of connections among all users",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "a small number of individuals have a substantially higher number of connections compared to the majority",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "each node has an identical degree, promoting equality in connectivity",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "question": "What is the diameter of the following graph?",
+    "questionImage": "/images/w2q6.png",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "1",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "2",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "3",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "4",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "question": "Which of the following formats was created as a part of Gephi project?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "GML",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "GEXF",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "GraphML",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "Pajek",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "question": "Given is a graph G with |V|=n,number of nodes and |E|=m,number of edges. In which of the following cases, we can guarantee that G is connected?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "|E|=n",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "|E|=n-1",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "|E| = nlog2(n)",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "|E| = n*(n-1)/2",
+        "isCorrect": true,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "question": "Which of the following statements is True for GML format of networks? Statement I: Labels and attributes can be addedStatement II: Weights can be added",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "1 only",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "2 only",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": "Both",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "None",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "question": "In the mentioned synonymy network, why might there be a path between words like “love” and “hatred”?",
+    "questionImage": "",
+    "multicorrect": false,
+    "options": [
+      {
+        "id": 1,
+        "text": "Due to faulty edges",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 2,
+        "text": "To enable users with contradictory paths to find antonyms",
+        "isCorrect": false,
+        "image": ""
+      },
+      {
+        "id": 3,
+        "text": " Words can undergo semantic shifts, acquiring new meanings or evolving to represent opposite concepts",
+        "isCorrect": true,
+        "image": ""
+      },
+      {
+        "id": 4,
+        "text": "The network algorithm identifies unrelated words as synonyms",
+        "isCorrect": false,
+        "image": ""
+      }
+    ]
+  }
+]

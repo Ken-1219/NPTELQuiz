@@ -1,0 +1,324 @@
+[
+    {
+        "id": 1,
+        "question": "What happens when the gold coins distribution game converge?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "all the nodes get equal number of coins",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "all the nodes are visited at least once",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "each node might have different number of coins",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "one node gets all the coins",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "In a game distributing gold coins across a network, each node begins with an equal number of coins. Following one round of redistribution, the total number of coins across the network remains the same. Which network structure guarantees this outcome?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Random network",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Scale-free network",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Ring network",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "None of the above",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Which of the following statements is True for Teleportation?\nStatement I - prevents random walk from getting stuck in certain regions of the graph\nStatement II - Jumping to any random node in the network",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "1 only",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "2 only",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Both",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "None",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "If nx represents networkx library then, for a graph G, what does nx.pagerank(G) return?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "list of nodes in the ascending order of their page rank",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "list of Page ranks of all nodes",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "dictionary of node, Page rank pairs",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "dictionary of edge, page rank pairs",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "If the initial PageRank of each node is 1/4 for the given graph below, what will be the PageRank of the nodes after 2 iterations?",
+        "questionImage": "/images/w6q5.png",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "A=1/4, B=1/4, C=1/4, D=1/4",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "A=1/4, B=3/8, C= 1/8, D=1/4",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "A=1/4, B=1/2, C=1/8, D=1/4",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "A=1/4, B=1/4, C=1/8, D=3/8",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Pick out the invalid statement for web graphs.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Nodes represent web pages",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "edges represents a hyperlink from one page to another",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "It is a directed graph",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "It is a complete graph",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question": "Consider the following graph for the gold coins distribution game. Each node in the graph G =A, B, C, D has 20, 30, 45, 30 corresponding number of gold coins initially. What is the number of gold coins after one iteration?",
+        "questionImage": "/images/w6q7.png",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "25, 40, 35, 20",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "40, 25, 35, 20",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "25, 40, 30, 20",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "40, 35, 30, 25",
+                "isCorrect": false,
+                "image": ""
+            }
+
+        ]
+    },
+    {
+        "id": 8,
+        "question": "How is the PageRank vector typically computed in the PageRank algorithm?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Solving a system of linear equations",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Using a recursive algorithm",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Iteratively updating the vector until convergence",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "All the above",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question": "In a graph of individuals with edges representing friendship, choose the correct option based on the two statements given below. Statement I - Take a random walk and drop 1 coin at each node while visiting. Individuals accumulating the most coins will be the most popular. Statement II - Give an equal number of coins to all individuals at the beginning and then each individual has to distribute them equally to all of their friends at every snap. After many snaps, the individual with the most coins will be the most popular.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Both statements are correct.",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Statement I is correct and statement II is incorrect.",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Statement I is incorrect and statement II is correct.",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Both statements are incorrect.",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question": "Which of the following are True for Page rank and Degree of nodes? Statement I - Their correlation depends on the specific characteristics of the network Statement II - They capture different aspects of node importance",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "1 only",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "2 only",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Both",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "None",
+                "isCorrect": false,
+                "image": ""
+            }
+
+        ]
+    }
+]

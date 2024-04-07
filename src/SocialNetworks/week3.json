@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "question": "Consider the following definitions of local bridge.\ni An edge with zero neighborhood overlap\nii An edge whose endpoints have no friends in common.\niii An edge whose deletion results in increasing the distance between the endpoints to a value strictly more than two.\niv An edge that does not from the side of any triangle in the graph.Which of the above definitions are correct?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "i, ii and iv",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "ii, iii and iv",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "i, ii, and iii",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "All of the above",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Assume A is a friend of B and B is a friend of C, eventually A becomes a friend of C. This phenomena is called the",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "triadic closure",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "weak tie",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "strong tie",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "structural hole",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Given Eij is the Embeddedness of an edge between nodes i and j, choose the correct option for the given network.",
+        "questionImage": "/images/w3q3.png",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Eab<Wcd",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Eab>Wcd",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Eab=Wcd",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Eab<=Wcd",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "While implementing the Girvan Newman algorithm on a certain graph G, you observe that edge E2 gets removed after E1. What can you comment about them?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "E1 has higher betweenness than E2",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "E2 has higher betweenness than E1",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "E1 has more shortest paths passing through it",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "E1 has higher betweenness that E2, also E1 has more shortest paths passing through it",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Which of the two statements are True? Statement I - The nodes at the ends of a local bridge in a graph have no common nodes. Statement II - Removing bridges from a graph leads to a disconnected graph",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "1 only",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "2 only",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Both",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "None",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Find the Neighborhood overlap of the edge connecting V0 and V3 in the given graph.",
+        "questionImage": "/images/w3q6.png",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "3/4",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "3/5",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "1/5",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "1/4",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question": "For the given network, identify the node that has multiple local bridges and spans the structural hole in the organisation.",
+        "questionImage": "/images/w3q7.png",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "E",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "F",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "O",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "K",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question": "In a small social network resembling Facebook, individuals are linked by edges representing friendship connections. The edges in this network are weighted to signify the strength of these connections. Which statement accurately reflects the nature of this network?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Strong ties generally exhibit low edge weights.",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Strong ties typically possess high edge betweenness.",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Strong ties are primarily observed as inter-community edges, connecting two distinct communities",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "None of the above statements are accurate.",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question": "Find the betweenness of the edge 3-7 for the given network:",
+        "questionImage": "/images/w3q9.png",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "20",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "22",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "30",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "33",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question": "find the edge with maximum betweenness.",
+        "questionImage": "/images/w3q9.png",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "1-2",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "6-7",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "7-8",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "13-14",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    }
+]

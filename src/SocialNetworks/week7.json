@@ -1,0 +1,316 @@
+[
+    {
+        "id": 1,
+        "question": "Consider the modeling of information cascade in a graph G, where everyone starts with B and there is a small set S of early adopters of A. Given following two statements.\nS1: Nodes in S keep using A no matter what payoffs tell them to do\nS2: Nodes outside S keep using B no matter what payoffs tell them to do.\nChoose the correct option.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Both S1 and S2 are true",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "S1 is true but S2 is false",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "S2 is true but S1 is false.",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Both S1 and S2 are false.",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Consider a group of 10 bachelors, 5 live on the first floor of the apartment and 5 live on the second floor. Suppose that each person in this group has two friends on their own floor, and one friend on the other floor. Now, a new restaurant opens, and five persons all living on the first floor each begin eating there on the first day. This action will eventually be adopted by",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Nobody in the apartment",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Only the bachelors in the first floor",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Only the bachelors in the second floor",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Cannot say",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "If the payoff for working on your Assignment is 0.3 and participating in a Hackathon is 0.5. Five of your friends are participating in the Hackathon and six of your friends are working on the Assignment, what will you opt for?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Participate in Hackathon",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Work on Assignment",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Cannot say",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "In the context of a cascade of adoptions of a behavior/product 'X' within a network, which statement is NOT POSSIBLE? Consider a chain reaction of switches from 'Y' to 'X'.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Eventually all nodes adopt 'X' over time.",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "The cascade initiates but halts before all nodes transition to 'X'.",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "At a point, every node reverts to 'Y'.",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Only the initial seed node transitions to 'X'.",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "What is the density of a cluster?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "fraction of nodes' friends present inside the cluster",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "fraction of the node's friends present outside the cluster",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "average number of friends inside the cluster",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "maximum number of friends inside the cluster",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question": "What is the cluster density of the each of the four node cluster?",
+        "questionImage": "/images/w7q6.png",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "1/3",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "2/3",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "1",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "4/3",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question": "Consider a network where all of its nodes have adopted an idea A with a threshold 'q' for nodes in the remaining network to adopt A. Which of the following efforts can be a valid attempt to create a complete cascade of a new idea B in such a network? Select all that is applicable.",
+        "questionImage": "",
+        "multicorrect": true,
+        "options": [
+            {
+                "id": 1,
+                "text": "Increase the product price",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Increase the product payoff",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "No cluster with density less than (1 - q)",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Find out the key people in the network to inject idea",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question": "Assume a model for collective behavior where the threshold for each node is represented near the node. Which of the following statements are correct? Select all that apply.",
+        "questionImage": "/images/w7q8.png",
+        "multicorrect": true,
+        "options": [
+            {
+                "id": 1,
+                "text": "node U knows the threshold of V and W",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "node V does not know the threshold of W",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Each of them easily decide to protest",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Each node has an incomplete knowledge of the entire network",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question": "Given a network as shown in the following Figure, assume that initially every node in this network has adopted behavior B. Next, a new behavior A is introduced in the network and the nodes 7 and 8 are the initial adopters of this behavior A, i.e., nodes 7 and 8 now have adopted behavior A and the rest of the nodes have adopted behavior B. The payoff associated with A is a = 3 and the payoff associated with B is b = 2. After the introduction of this new behavior A in the network, all the nodes will start weighing their options and might change their behavior. This leads to a cascade in the network. When the cascade ends, which all are the nodes who have adopted the behavior A.",
+        "questionImage": "/images/w7q9.png",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "7,8,6",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "7,8,6,5",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "7,8,6,5,4",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "7,8,6,5,4,2,3,1",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question": "Let 'v' be a node in a graph. Suppose that a 'p' fraction of the neighbors of 'v' have behavior A, and a (1 - p) fraction have behavior B; that is, if 'v' has 'd' neighbors, then pd adopt A and (1 - p)d adopt B. Behavior A has a payoff of 'a' and behavior B has a payoff of 'b'. Then B is a better choice for 'v' if",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "p>=a/b",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "p>=b/a",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "p>=a/(a+b)",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "p>=b(a+b)",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    }
+]

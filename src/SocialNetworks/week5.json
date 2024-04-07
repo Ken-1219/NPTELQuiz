@@ -1,0 +1,322 @@
+[
+    {
+        "id": 1,
+        "question": "Select all the triangles that are stable.",
+        "questionImage": "/images/w5q1.png",
+        "multicorrect": true,
+        "options": [
+            {
+                "id": 1,
+                "text": "(a)",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "(b)",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "(c)",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "(d)",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Which of the following figure represents a unsatisfied central node according to the Schelling’s model of spatial segregation, given the threshold t=4?",
+        "questionImage": "/images/w5q2.png",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "a",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "b",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "c",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "d",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "In a 2-D grid with dimensions 120 by 90, what is the maximum number of nodes that can have exactly 8 neighbors?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "120 x 90",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "119 x 89",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "118 x 88",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "121 x 91",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Identify the statement that is INCORRECT.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Structural balance involves studying the interplay of positive and negative relationships among the nodes over time",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Structural balance is a theory that offers ways of equating the number of positive and negative edges in a network so that it becomes ‘balanced’",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Structural balance illustrates a nice connection between local and global network properties",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Structural balance is to understand the tension between the two forces, i.e. friendship and antagonism",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Given a triangular network with two negative relationships, When is the network stable?        ",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Never",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Sometimes",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Always",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Cannot be inferred",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Which of the following complete graphs are structurally balanced?",
+        "questionImage": "/images/w5q6.png",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "A only",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "B only",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Both A and B",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "None",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question": "Given a relationship between 3 people (+,+,-) where + represents friendship and - represents enmity, which of the following options is/are valid options to become stable?",
+        "questionImage": "",
+        "multicorrect": true,
+        "options": [
+            {
+                "id": 1,
+                "text": "one friendship transforms to enmity",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "one enmity becomes friendship",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "both friendships turn to enmity",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "cannot become stable",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question": "Consider Frank McCown’s simulation of the Schelling model illustrated in the course. The simulation has parameters: Similar (threshold), empty (fraction of empty cells) and red/blue ratio. Choose the INCORRECT statements from the options.        ",
+        "questionImage": "",
+        "multicorrect": true,
+        "options": [
+            {
+                "id": 1,
+                "text": "As similar increases, it takes more time for the system to stabilise",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "The system will always stabilise no matter what the parameters are",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "The system can stabilise even if similar = 100%",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Spatial segregation doesn’t always induce communities/clustering in the grid",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question": "Which of the following statements are True for structural balance?\nStatement I - For every set of three nodes exactly one of them is labeled +\nStatement II - For every set of three nodes if all three of these edges are labeled +",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "1 only",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "2 only",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Both",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "None",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "question": "Assume there are 100 people in a community who know each other. Pick out all the scenarios when the community network is stable.        ",
+        "questionImage": "",
+        "multicorrect": true,
+        "options": [
+            {
+                "id": 1,
+                "text": "75 people are friends with each other, 25 are friends with each other and there is a negative relationship between these two groups",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "All 100 people are friends with each other",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": " 30 people are friends among each other, 40 are friends with each other, 30 are friends with each other and there is antagonism between each group",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "",
+                "isCorrect": false,
+                "image": " There is antagonism amidst set A of 75 people and antagonism amidst set B of 25 people and friendship between set A and set B"
+            }
+        ]
+    }
+]

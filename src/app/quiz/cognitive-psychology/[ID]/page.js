@@ -1,6 +1,6 @@
 "use client"
 
-import React from 'react';
+import React, { useEffect } from 'react';
 import CognitiveQuizCard from '@/app/components/CognitiveQuizCard/CognitiveQuizCard';
 
 function shuffleArray(array) {
@@ -30,9 +30,11 @@ function Page({ params }) {
   weekData = shuffleWeekData(weekData);
   weekData = shuffleQuestionOptions(weekData);
 
-  // Remove data from the local storage of the previous Quiz
-  localStorage.removeItem('correctCount');
-  localStorage.removeItem('attemptedCount');
+  useEffect(() => {
+    // Remove data from the local storage of the previous Quiz
+    localStorage.removeItem('correctCount');
+    localStorage.removeItem('attemptedCount');
+  }, [])
 
   return (
     <>

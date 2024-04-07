@@ -1,5 +1,5 @@
 "use client"
-import React from 'react';
+import React, { useEffect } from 'react';
 import SocialQuizCard from '@/app/components/SocialQuizCard/SocialQuizCard';
 
 function shuffleArray(array) {
@@ -24,9 +24,12 @@ function Page({ params }) {
     // Shuffle the weekData, questions, and options within each question
     const shuffledWeekData = shuffleWeekData(weekData);
 
-    // Remove data from the local storage of the previous Quiz
-    localStorage.removeItem('correctCount');
-    localStorage.removeItem('attemptedCount');
+
+    useEffect(() => {
+        // Remove data from the local storage of the previous Quiz
+        localStorage.removeItem('correctCount');
+        localStorage.removeItem('attemptedCount');
+    }, [])
 
     return (
         <>

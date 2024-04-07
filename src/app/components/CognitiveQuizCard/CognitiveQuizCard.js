@@ -70,9 +70,13 @@ function CognitiveQuizCard({ data: weekData }) {
         handleNextButton();
     };
 
-    const handleSubmit = () => {
+
+    useEffect(() => {
         localStorage.setItem('correctCount', correctCount);
         localStorage.setItem('attemptedCount', attemptedCount);
+    }, [attemptedCount, correctCount])
+
+    const handleSubmit = () => {
         router.push('/result');
     }
 

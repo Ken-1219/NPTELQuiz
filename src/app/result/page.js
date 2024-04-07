@@ -1,15 +1,21 @@
 "use client"
 
-import React from 'react'
+import React, { useEffect, useState } from 'react';
 import DoughnutCharts from '../components/DoughnutChart/DoughnutChart';
 
-function page() {
+function Page() {
+  const [correctCount, setCorrectCount] = useState(0);
+  const [attemptedCount, setAttemptedCount] = useState(0);
 
-  const correctCount = parseInt(localStorage.getItem('correctCount') || '0', 10);
-  const attemptedCount = parseInt(localStorage.getItem('attemptedCount') || '0', 10);
+  useEffect(() => {
+    const storedCorrectCount = parseInt(localStorage.getItem('correctCount') || '0', 10);
+    const storedAttemptedCount = parseInt(localStorage.getItem('attemptedCount') || '0', 10);
+    setCorrectCount(storedCorrectCount);
+    setAttemptedCount(storedAttemptedCount);
+  }, []);
+
   const unattemptedCount = 10 - attemptedCount;
   const incorrectCount = attemptedCount - correctCount;
-
 
   return (
     <>
@@ -43,4 +49,4 @@ function page() {
   )
 }
 
-export default page
+export default Page;

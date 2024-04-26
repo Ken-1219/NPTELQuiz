@@ -22,7 +22,7 @@ function CognitiveQuizCard({ data: weekData }) {
 
         //Since page is changed, update the previous selected option from savedOptions array.
         setSelectedOption(savedOptions[index]);
-   
+
         console.log(correctCount, attemptedCount);
 
         // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -103,7 +103,7 @@ function CognitiveQuizCard({ data: weekData }) {
         <div>
             {index >= 0 && index <= weekData.length - 1 && (
                 <div
-                    className='md:h-[80vh] flex items-center justify-center flex-col p-10'>
+                    className='md:h-[91vh] flex items-center justify-center flex-col p-10'>
                     {/* Question Count */}
                     <h1
                         className='md:text-3xl text-xl font-bold mb-10'>
@@ -135,17 +135,22 @@ function CognitiveQuizCard({ data: weekData }) {
 
                     {/* Correct or Incorrect */}
                     {isSaved && (
-                        <h1 className={`md:text-2xl text-lg font-semibold text-center mt-10 ${isCorrect ? 'text-green-500' : 'text-red-400'}`}>
-                            {isCorrect ? 'Correct' : 'Incorrect'}
-                            Correct options: <br></br>
-                            {options.map((option) => {
-                                if (option.isCorrect) {
-                                    return (
-                                        <p key={option.id} className='text-left'>{option.text}</p>
-                                    )
-                                }
-                            })}
-                        </h1>
+                        <>
+                            <h1 className={`md:text-2xl text-lg font-semibold text-center mt-8 ${isCorrect ? 'text-green-500' : 'text-red-400'}`}>
+                                {isCorrect ? 'Correct' : 'Incorrect'}
+                            </h1>
+                            <h1 className={`md:text-2xl block text-lg font-semibold capitalize text-center ${isCorrect ? 'text-green-500' : 'text-red-400'}`}>
+                                Correct Answer:
+                                {options.map((option) => {
+                                    if (option.isCorrect) {
+                                        return (
+                                            <p key={option.id} className='text-center'>{option.text}</p>
+                                        )
+                                    }
+                                })}
+                            </h1>
+                        </>
+
                     )}
 
 

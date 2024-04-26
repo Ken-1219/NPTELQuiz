@@ -71,9 +71,19 @@ function CognitiveQuizCard({ data: weekData }) {
             if (!prevSelectedOption) {
                 setCorrectCount(correctCount + 1);
             }
+            options.map((option) => {
+                if (option.isCorrect) {
+                    console.log(option.text);
+                }
+            })
         }
         else {
             console.log("Selected option is wrong");
+            options.map((option) => {
+                if (option.isCorrect) {
+                    console.log(option.text);
+                }
+            })
             setIsCorrect(false);
         }
     }
@@ -97,7 +107,7 @@ function CognitiveQuizCard({ data: weekData }) {
                     <h1
                         className='md:text-3xl text-xl font-bold mb-10'>
                         Question: <span
-                            className='md:text-2xl text-lg font-normal'>{index + 1}/10</span>
+                            className='md:text-2xl text-lg font-normal'>{index + 1}/{weekData.length}</span>
                     </h1>
 
                     {/* question */}
@@ -126,6 +136,14 @@ function CognitiveQuizCard({ data: weekData }) {
                     {isSaved && (
                         <h1 className={`md:text-2xl text-lg font-semibold text-center mt-10 ${isCorrect ? 'text-green-500' : 'text-red-400'}`}>
                             {isCorrect ? 'Correct' : 'Incorrect'}
+                            Correct options: <br></br>
+                            {options.map((option) => {
+                                if (option.isCorrect) {
+                                    return (
+                                        <p key={option.id} className='text-left'>{option.text}</p>
+                                    )
+                                }
+                            })}
                         </h1>
                     )}
 

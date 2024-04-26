@@ -385,7 +385,7 @@
     },
     {
         "id": 9,
-        "question": "You meant to visit the campus bookstore before it closed, but you do not remember that1 point you wanted to do that until two hours after closing time. This scenario is a failure of which type of memory?",
+        "question": "You meant to visit the campus bookstore before it closed, but you do not remember that you wanted to do that until two hours after closing time. This scenario is a failure of which type of memory?",
         "questionImage": "",
         "multicorrect": false,
         "options": [
@@ -577,7 +577,7 @@
     },
     {
         "id": 9,
-        "question": "While studying for a psychology exam, you devise 1 point a poem about Piaget’s stages of development to help you remember them. This is an example of ______.",
+        "question": "While studying for a psychology exam, you devise  a poem about Piaget’s stages of development to help you remember them. This is an example of ______.",
         "questionImage": "",
         "multicorrect": false,
         "options": [
@@ -1396,7 +1396,7 @@
             {
                 "id": 3,
                 "text": "watch a sad movie just before the exam",
-                "isCorrect": false,
+                "isCorrect": true,
                 "image": ""
             },
             {

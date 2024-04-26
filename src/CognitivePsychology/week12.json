@@ -1,31 +1,31 @@
 [
     {
         "id": 0,
-        "question": "Which of the following represents a good example of a proximal stimulus?",
+        "question": "Normative models of decision making describe:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "a book on a shelf",
+                "text": "how we ought to make decisions in realistic circumstances",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "a tree in your yard",
+                "text": "what people actually do when they make decisions",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "a building on the horizon",
+                "text": "cognitive illusions",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "the retinal image formed by a tree",
+                "text": "ideal performance under ideal circumstances",
                 "isCorrect": true,
                 "image": ""
             }
@@ -33,287 +33,304 @@
     },
     {
         "id": 1,
-        "question": "Subjective contours are thought to:",
+        "question": "The ideal model of decision making involves ______",
+
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "be the result of simplifying a complex display.",
+                "text": "ranking criteria in terms of their importance",
                 "isCorrect": true,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "occur only with the perceiver’s awareness of the process.",
+                "text": "following your instinct",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "require no active participation on the perceiver’s part.",
+                "text": " deciding only when the outcome is certain",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "require both awareness and active participation.",
+                "text": "discussing options with peers",
                 "isCorrect": false,
                 "image": ""
             }
         ]
     },
     {
+        
         "id": 2,
-        "question": "A stencil provides a good analogy for the theory of:",
+        "question": "Expected utility theory is usually regarded as a ________ model of decision making",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "prototype matching.",
+                "text": "descriptive.",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "template matching.",
+                "text": "normative",
                 "isCorrect": true,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "good continuation.",
+                "text": "both descriptive and prescriptive",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "featural analysis.",
+                "text": "rescriptive",
                 "isCorrect": false,
                 "image": ""
             }
         ]
     },
     {
+       
         "id": 3,
-        "question": "When we use knowledge of objects to aid in our perception of them, we are using ______.",
+        "question": "_____ is a normative model for integrating different dimensions and goals of a complex decision.",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "the “where” pathway",
+                "text": "Expected value",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "bottom-up processing",
+                "text": "Expected utility",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "top-down processing",
+                "text": "MAUT",
                 "isCorrect": true,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "sensations",
+                "text": "framing",
                 "isCorrect": false,
                 "image": ""
             }
         ]
     },
     {
+       
         "id": 4,
-        "question": "You come home, and your house is a mess. The garbage is spilled all over the kitchen, there are rolls of toilet paper strewn about, and all of your decorative trinkets are broken on the floor, but nothing is missing. Your dog and cat are sitting calmly in the middle of the mess. According to the principle of Pragnanz, what would you assume caused the mess?",
+        "question": "The phase of decision making that involves finding a way to organize information is called:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "an earthquake",
+                "text": "planning",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "a robber",
+                "text": "goal setting",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "your cat and dog",
+                "text": "structuring the decision",
                 "isCorrect": true,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "your neighbor’s child",
+                "text": "evaluating",
                 "isCorrect": false,
                 "image": ""
             }
         ]
     },
     {
+        
         "id": 5,
-        "question": "When making a decision, we are likely to weigh all of the possible choices we could make. This is most similar to the concept of ______ in perception.",
+        "question": " You have just spent 10 minutes trying to figure out the answer to a single problem on your math quiz. In spite of your lack of success, you continue to struggle, neglecting to continue on to other problems because you’ve already invested so much time and effort in this problem. You have fallen victim to:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "top-down processing",
-                "isCorrect": false,
+                "text": "the sunk cost effect",
+                "isCorrect": true,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "closure",
+                "text": "a framing effect",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "proximity",
+                "text": "the anchor effect",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "affordances",
-                "isCorrect": true,
+                "text": "availability bias",
+                "isCorrect": false,
                 "image": ""
             }
         ]
     },
     {
+       
         "id": 6,
-        "question": "__________ are to visual perception what phonemes are to language, according to Biederman.",
+        "question": "        Changing the description of a decision can cause us to change our reference points, leading to illogical preferences. This phenomenon is referred to as:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Receptors",
+                "text": "hindsight bias",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "Retinas",
+                "text": "the gambler’s fallacy",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "Distal stimuli",
+                "text": "availability",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "Geons",
+                "text": "framing",
                 "isCorrect": true,
                 "image": ""
             }
         ]
     },
     {
+        
         "id": 7,
-        "question": "In David Marr’s model of vision, which stage of the process incorporates primarily bottom-up knowledge?",
+        "question": " The mental activities that take place in choosing among alternatives are collectively called:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "the primal sketch",
+                "text": "problem solving",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "the 2 ½ D sketch",
+                "text": "deductive reasoning",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "the 3-D sketch",
+                "text": "rational thought",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "both the primal sketch and the 2 ½ D sketch",
+                "text": "decision making",
                 "isCorrect": true,
                 "image": ""
             }
         ]
     },
     {
+        
+ 
+
+
+
         "id": 8,
-        "question": "Which of the following explains the phenomenon of reversible images the best",
+        "question": "Which of the following step is involved in Multiattribute Utility Theory?",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "figure-ground organization.",
-                "isCorrect": true,
+                "text": "Break the decision down into its important dimensions",
+                "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "size constancy.",
+                "text": "List all of the alternatives",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "dimensionality.",
+                "text": "Multiply each ranking by the appropriate weight",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "retinal imagery.",
-                "isCorrect": false,
+                "text": " All of the above",
+                "isCorrect": true,
                 "image": ""
             }
         ]
     },
     {
+       
+
+ 
+ 
+ 
         "id": 9,
-        "question": "The meaningful interpretation of a proximal stimulus is called the:",
+        "question": " Participants in a decision-making study in which they had to decide among 6 or 12 apartments often eliminated some alternatives on the basis of one or two dimensions. This is an example of the strategy called:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "percept.",
+                "text": "elimination by aspects",
                 "isCorrect": true,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "sensation.",
+                "text": " MAUT",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "distal stimulus.",
+                "text": "normative behavior",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "illusion.",
+                "text": "EU",
                 "isCorrect": false,
                 "image": ""
             }

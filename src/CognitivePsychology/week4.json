@@ -353,38 +353,6 @@
     },
     {
         "id": 9,
-        "question": "",
-        "questionImage": "",
-        "multicorrect": false,
-        "options": [
-            {
-                "id": 1,
-                "text": "",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 2,
-                "text": "",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 3,
-                "text": "",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 4,
-                "text": "",
-                "isCorrect": false,
-                "image": ""
-            }
-        ]
-    },
-    {
-        "id": 9,
         "question": "The phonological loop is to ______ as the visuospatial sketchpad is to ______.",
         "questionImage": "",
         "multicorrect": false,

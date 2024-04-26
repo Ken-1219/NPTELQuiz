@@ -84,13 +84,13 @@
             {
                 "id": 3,
                 "text": "It accurately predicts the typicality effect.",
-                "isCorrect": false,
+                "isCorrect": true,
                 "image": ""
             },
             {
                 "id": 4,
                 "text": "“Necessary” and “sufficient” features play an important role in the theory.",
-                "isCorrect": true,
+                "isCorrect": false,
                 "image": ""
             }
         ]

@@ -302,13 +302,13 @@
             {
                 "id": 2,
                 "text": "concepts",
-                "isCorrect": true,
+                "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
                 "text": "schemata",
-                "isCorrect": false,
+                "isCorrect": true,
                 "image": ""
             },
             {

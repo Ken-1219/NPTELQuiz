@@ -180,13 +180,13 @@
             {
                 "id": 3,
                 "text": "syntax; semantics",
-                "isCorrect": true,
+                "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
                 "text": "semantics; syntax",
-                "isCorrect": false,
+                "isCorrect": true,
                 "image": ""
             }
         ]

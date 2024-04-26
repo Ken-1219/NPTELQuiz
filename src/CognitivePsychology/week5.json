@@ -1582,7 +1582,7 @@
             {
                 "id": 2,
                 "text": "Retrieval",
-                "isCorrect": false,
+                "isCorrect": true,
                 "image": ""
             },
             {

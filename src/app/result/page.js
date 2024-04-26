@@ -6,15 +6,18 @@ import DoughnutCharts from '../components/DoughnutChart/DoughnutChart';
 function Page() {
   const [correctCount, setCorrectCount] = useState(0);
   const [attemptedCount, setAttemptedCount] = useState(0);
+  const [total, setTotal] = useState(10);
 
   useEffect(() => {
-    const storedCorrectCount = parseInt(localStorage.getItem('correctCount') || '0', 10);
-    const storedAttemptedCount = parseInt(localStorage.getItem('attemptedCount') || '0', 10);
+    const total1 = parseInt(localStorage.getItem('totalQuestions') || '10');
+    const storedCorrectCount = parseInt(localStorage.getItem('correctCount') || '0', total);
+    const storedAttemptedCount = parseInt(localStorage.getItem('attemptedCount') || '0', total);
     setCorrectCount(storedCorrectCount);
     setAttemptedCount(storedAttemptedCount);
+    setTotal(total1);
   }, []);
 
-  const unattemptedCount = 10 - attemptedCount;
+  const unattemptedCount = total - attemptedCount;
   const incorrectCount = attemptedCount - correctCount;
 
   return (
@@ -32,7 +35,7 @@ function Page() {
 
           <div className='m-8 text-center'>
             <h1 className='text-3xl font-bold text-indigo-700'> Your Score:</h1>
-            <h1 className='text-xl font-bold text-midnight mb-10'>{correctCount} / 10</h1>
+            <h1 className='text-xl font-bold text-midnight mb-10'>{correctCount} / {total}</h1>
             <p className='text-2xl text-midnight'>Correct: {correctCount}</p>
             <p className='text-2xl text-midnight'>Incorrect: {incorrectCount}</p>
             <p className='text-2xl text-midnight'>Unattempted: {unattemptedCount}</p>

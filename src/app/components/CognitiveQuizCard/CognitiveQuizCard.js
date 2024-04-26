@@ -90,6 +90,7 @@ function CognitiveQuizCard({ data: weekData }) {
 
 
     useEffect(() => {
+        localStorage.setItem('totalQuestions', weekData.length);
         localStorage.setItem('correctCount', correctCount);
         localStorage.setItem('attemptedCount', attemptedCount);
     }, [attemptedCount, correctCount])

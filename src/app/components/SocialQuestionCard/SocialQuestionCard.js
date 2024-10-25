@@ -1,14 +1,14 @@
 import React from 'react'
 import Image from 'next/image'
 
-function SocialQuestionCard({ question, index, options, selectedOption, handleOptionSelect, quesImage, isMultiCorrect }) {
+function SocialQuestionCard({ question, index, options, selectedOption, handleOptionSelect, quesImage, isMultiCorrect,weekData }) {
     return (
         <div className='flex items-center justify-center flex-col p-10'>
             {/* Question Count */}
             <h1
                 className='md:text-3xl text-xl font-bold '>
                 Question: <span
-                    className='md:text-2xl text-lg font-normal'>{index + 1}/10</span>
+                    className='md:text-2xl text-lg font-normal'>{index + 1}/{weekData.length}</span>
             </h1>
             <span className='text-sm mt-1 font-semibold text-slate-600 mb-10'>{isMultiCorrect ? "Multiple Correct" : "Single Correct"}</span>
 

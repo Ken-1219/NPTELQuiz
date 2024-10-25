@@ -106,6 +106,7 @@ function SocialQuizCard({ data: weekData }) {
     return (
         <div className='flex items-center justify-center flex-col p-10'>
             <SocialQuestionCard
+                weekData={weekData}
                 index={index}
                 question={question}
                 options={options}

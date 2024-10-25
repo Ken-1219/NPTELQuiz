@@ -25,6 +25,7 @@ function quiz() {
 
         <DisplayCard title="Cognitive Psychology" link="/quiz/cognitive-psychology" />
         <DisplayCard title="Social Networks" link="/quiz/social-networks" />
+        <DisplayCard title="Organizational Behaviour" link="/quiz/organizational-behaviour" />
 
       </div>
     </div >

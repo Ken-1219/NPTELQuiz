@@ -1,31 +1,31 @@
 [
     {
         "id": 0,
-        "question": "The stress which happens because of positive incidences is called:",
+        "question": "The communication style that is supportive and avoids change and confrontation is called:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Distress",
+                "text": "Animated communication style",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "Eustress",
-                "isCorrect": true,
-                "image": ""
-            },
-            {
-                "id": 3,
-                "text": "Hypo-stress",
+                "text": "Driver communication style",
                 "isCorrect": false,
                 "image": ""
             },
             {
+                "id": 3,
+                "text": "Amiable communication style",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
                 "id": 4,
-                "text": "Hyper work stress",
+                "text": "Analytical communication style",
                 "isCorrect": false,
                 "image": ""
             }
@@ -33,103 +33,39 @@
     },
     {
         "id": 1,
-        "question": "An unfocused, relatively mild feeling that exists as background to our daily experience is called:",
+        "question": "In communication, the process of converting a message into symbols is called:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Behaviour",
+                "text": "Message",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "Perception",
+                "text": "Channel",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "Mood",
-                "isCorrect": true,
+                "text": "Decoding",
+                "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "Envy",
-                "isCorrect": false,
+                "text": "Encoding",
+                "isCorrect": true,
                 "image": ""
             }
         ]
     },
     {
         "id": 2,
-        "question": "The psychological effort involved in holding back one’s true emotions is called:",
-        "questionImage": "",
-        "multicorrect": false,
-        "options": [
-            {
-                "id": 1,
-                "text": "Emotional dissonance",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 2,
-                "text": "Emotional labor",
-                "isCorrect": true,
-                "image": ""
-            },
-            {
-                "id": 3,
-                "text": "Emotional Attachment",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 4,
-                "text": "Temperament",
-                "isCorrect": false,
-                "image": ""
-            }
-        ]
-    },
-    {
-        "id": 3,
-        "question": "When John failed his driving license test, he starts to remember how his friends used to tease him saying he was not a good driver. This is an example of:",
-        "questionImage": "",
-        "multicorrect": false,
-        "options": [
-            {
-                "id": 1,
-                "text": "Work-family spillover effect",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 2,
-                "text": "Emotional dissonance",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 3,
-                "text": "Empathy",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 4,
-                "text": "Mood congruence effect",
-                "isCorrect": true,
-                "image": ""
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "question": "Threat-based aggression can stem from both a real stimulus or a perceived stimulus.",
+        "question": "Any disturbance that interfere with the transmission, receipt or feedback of a message is called noise.",
         "questionImage": "",
         "multicorrect": false,
         "options": [
@@ -148,40 +84,104 @@
         ]
     },
     {
-        "id": 5,
-        "question": "___________ is when you have a goal and you are moving towards that goal and you feel that something or someone is stopping you from reaching that goal.",
+        "id": 3,
+        "question": "The level of openness which exists in an organization which gives a certain level of comfort to its members is called:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Threat-based aggression",
+                "text": "Common information effect",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "Instrumental aggression",
+                "text": "Hidden profile paradigm",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "Irritable aggression",
+                "text": "Communication climate",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Paralinguistic communication",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Which of the following is NOT a non-verbal mode of communication?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Facial expressions",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Pupil dilation",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Gestures",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "Frustration-based aggression",
+                "text": "None of the above",
                 "isCorrect": true,
                 "image": ""
             }
         ]
     },
     {
+        "id": 5,
+        "question": "The study of spatial inter-relationships is called:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Kinesics",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Proxemics",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Silence",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Symbols",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
         "id": 6,
-        "question": "Fear of being rejected is one of the main reasons that make people non-assertive.",
+        "question": "Maintaining and distributing minutes of the meeting is helpful in reducing miscommunication in team meetings.",
         "questionImage": "",
         "multicorrect": false,
         "options": [
@@ -201,31 +201,31 @@
     },
     {
         "id": 7,
-        "question": "The feeling of completely tired and exhausted when you are stressed for a very long time accompanied by lack of meaning is called:",
+        "question": "When parts of some information are shared with the group members whereas other pieces of information are unshared, it gives rise to:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Burnout",
+                "text": "Hidden profile paradigm",
                 "isCorrect": true,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "Absenteeism",
+                "text": "Awareness",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "Hypo stress",
+                "text": "Trust building",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "Alarm-reaction",
+                "text": "Minimizing status difference",
                 "isCorrect": false,
                 "image": ""
             }
@@ -233,63 +233,51 @@
     },
     {
         "id": 8,
-        "question": "What are the behavioural symptoms of stress?",
+        "question": "In information sharing scenario, the case that has to be avoided to reduce decision making problems is:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Low productivity",
+                "text": "Fully shared case",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "Interpersonal conflicts",
+                "text": "Non-overlapping case",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "Suicidal tendencies",
-                "isCorrect": false,
+                "text": "Distributed partial overlap",
+                "isCorrect": true,
                 "image": ""
             },
             {
                 "id": 4,
                 "text": "All of the above",
-                "isCorrect": true,
+                "isCorrect": false,
                 "image": ""
             }
         ]
     },
     {
         "id": 9,
-        "question": "__________ is a mild form of hate.",
+        "question": "Most eastern cultures are comfortable with silence between conversations.",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Guilt",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 2,
-                "text": "Humiliation",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 3,
-                "text": "Resentment",
+                "text": "True",
                 "isCorrect": true,
                 "image": ""
             },
             {
-                "id": 4,
-                "text": "Shame",
+                "id": 2,
+                "text": "False",
                 "isCorrect": false,
                 "image": ""
             }

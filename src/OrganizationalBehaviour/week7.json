@@ -1,31 +1,31 @@
 [
     {
         "id": 0,
-        "question": "The stress which happens because of positive incidences is called:",
+        "question": "When each party involved in a task tries to maximize its own gains, often at the expense of others, it is called:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Distress",
+                "text": "Cooperation",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "Eustress",
-                "isCorrect": true,
-                "image": ""
-            },
-            {
-                "id": 3,
-                "text": "Hypo-stress",
+                "text": "Interdependency",
                 "isCorrect": false,
                 "image": ""
             },
             {
+                "id": 3,
+                "text": "Competition",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
                 "id": 4,
-                "text": "Hyper work stress",
+                "text": "None of the above",
                 "isCorrect": false,
                 "image": ""
             }
@@ -33,31 +33,31 @@
     },
     {
         "id": 1,
-        "question": "An unfocused, relatively mild feeling that exists as background to our daily experience is called:",
+        "question": "The degree of confidence we have on others in a relationship is called:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Behaviour",
+                "text": "Transactional contract",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "Perception",
+                "text": "Relational contract",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "Mood",
+                "text": "Trust",
                 "isCorrect": true,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "Envy",
+                "text": "Norms",
                 "isCorrect": false,
                 "image": ""
             }
@@ -65,31 +65,19 @@
     },
     {
         "id": 2,
-        "question": "The psychological effort involved in holding back one’s true emotions is called:",
+        "question": "The kind of psychological contract that focuses on long-term interaction and a widely defined relationship is called relational contract.",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Emotional dissonance",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 2,
-                "text": "Emotional labor",
+                "text": "True",
                 "isCorrect": true,
                 "image": ""
             },
             {
-                "id": 3,
-                "text": "Emotional Attachment",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 4,
-                "text": "Temperament",
+                "id": 2,
+                "text": "False",
                 "isCorrect": false,
                 "image": ""
             }
@@ -97,91 +85,71 @@
     },
     {
         "id": 3,
-        "question": "When John failed his driving license test, he starts to remember how his friends used to tease him saying he was not a good driver. This is an example of:",
+        "question": "The type of trust that is established based on the credibility of a person, for e.g., trusting the doctor:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Work-family spillover effect",
+                "text": "Trust based on familiarity",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "Emotional dissonance",
-                "isCorrect": false,
+                "text": "Swift trust",
+                "isCorrect": true,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "Empathy",
+                "text": "Trust based on similarity",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "Mood congruence effect",
-                "isCorrect": true,
+                "text": "Trust based on social networks",
+                "isCorrect": false,
                 "image": ""
             }
         ]
     },
     {
         "id": 4,
-        "question": "Threat-based aggression can stem from both a real stimulus or a perceived stimulus.",
+        "question": "The characteristic of being and respectful towards others is:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "True",
-                "isCorrect": true,
+                "text": "Conscientiousness",
+                "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "False",
+                "text": "Sportsmanship",
                 "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Civic virtue",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Courtesy",
+                "isCorrect": true,
                 "image": ""
             }
         ]
     },
     {
         "id": 5,
-        "question": "___________ is when you have a goal and you are moving towards that goal and you feel that something or someone is stopping you from reaching that goal.",
-        "questionImage": "",
-        "multicorrect": false,
-        "options": [
-            {
-                "id": 1,
-                "text": "Threat-based aggression",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 2,
-                "text": "Instrumental aggression",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 3,
-                "text": "Irritable aggression",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 4,
-                "text": "Frustration-based aggression",
-                "isCorrect": true,
-                "image": ""
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "question": "Fear of being rejected is one of the main reasons that make people non-assertive.",
+        "question": "Treating the common resources responsibly is called",
         "questionImage": "",
         "multicorrect": false,
         "options": [
@@ -194,6 +162,38 @@
             {
                 "id": 2,
                 "text": "False",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question": "__________ is helping without expecting anything in return.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Altruism",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Competition",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Cooperation",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Conscientiousness",
                 "isCorrect": false,
                 "image": ""
             }
@@ -201,31 +201,31 @@
     },
     {
         "id": 7,
-        "question": "The feeling of completely tired and exhausted when you are stressed for a very long time accompanied by lack of meaning is called:",
+        "question": "Disagreements on strategy and sharing of responsibility and resources is called:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Burnout",
-                "isCorrect": true,
+                "text": "Relational conflict",
+                "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "Absenteeism",
+                "text": "Task conflict",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "Hypo stress",
-                "isCorrect": false,
+                "text": "Process conflict",
+                "isCorrect": true,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "Alarm-reaction",
+                "text": "Avoiding",
                 "isCorrect": false,
                 "image": ""
             }
@@ -233,64 +233,64 @@
     },
     {
         "id": 8,
-        "question": "What are the behavioural symptoms of stress?",
+        "question": "People who focus on maximizing the joint outcomes of everyone involved are called:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Low productivity",
+                "text": "Competitors",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "Interpersonal conflicts",
-                "isCorrect": false,
+                "text": "Cooperators",
+                "isCorrect": true,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "Suicidal tendencies",
+                "text": "Individualists",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "All of the above",
-                "isCorrect": true,
+                "text": "Equalizers",
+                "isCorrect": false,
                 "image": ""
             }
         ]
     },
     {
         "id": 9,
-        "question": "__________ is a mild form of hate.",
+        "question": "Which conflict handling style is best for both the parties involved?",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Guilt",
+                "text": "Competing",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "Humiliation",
+                "text": "Avoiding",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "Resentment",
-                "isCorrect": true,
+                "text": "Accommodating",
+                "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "Shame",
-                "isCorrect": false,
+                "text": "Collaborating",
+                "isCorrect": true,
                 "image": ""
             }
         ]

@@ -1,31 +1,31 @@
 [
     {
         "id": 0,
-        "question": "The stress which happens because of positive incidences is called:",
+        "question": "___________ is the willingness of a person to put high levels of efforts to reach a goal.",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Distress",
+                "text": "Emotions",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "Eustress",
+                "text": "Motivation",
                 "isCorrect": true,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "Hypo-stress",
+                "text": "Frustration",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "Hyper work stress",
+                "text": "Incentives",
                 "isCorrect": false,
                 "image": ""
             }
@@ -33,31 +33,31 @@
     },
     {
         "id": 1,
-        "question": "An unfocused, relatively mild feeling that exists as background to our daily experience is called:",
+        "question": "The need to be part of a group is categorized as:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Behaviour",
+                "text": "Achievement motive",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "Perception",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 3,
-                "text": "Mood",
+                "text": "Affiliation motive",
                 "isCorrect": true,
                 "image": ""
             },
             {
+                "id": 3,
+                "text": "Power motive",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
                 "id": 4,
-                "text": "Envy",
+                "text": "Role conflict",
                 "isCorrect": false,
                 "image": ""
             }
@@ -65,31 +65,19 @@
     },
     {
         "id": 2,
-        "question": "The psychological effort involved in holding back one’s true emotions is called:",
+        "question": "Money is a form of extrinsic motivation.",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Emotional dissonance",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 2,
-                "text": "Emotional labor",
+                "text": "True",
                 "isCorrect": true,
                 "image": ""
             },
             {
-                "id": 3,
-                "text": "Emotional Attachment",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 4,
-                "text": "Temperament",
+                "id": 2,
+                "text": "False",
                 "isCorrect": false,
                 "image": ""
             }
@@ -97,83 +85,83 @@
     },
     {
         "id": 3,
-        "question": "When John failed his driving license test, he starts to remember how his friends used to tease him saying he was not a good driver. This is an example of:",
+        "question": "According to Maslow’s hierarchy of needs, the highest level of needs one can achieve is:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Work-family spillover effect",
-                "isCorrect": false,
+                "text": "Self-actualization",
+                "isCorrect": true,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "Emotional dissonance",
+                "text": "Social Needs",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "Empathy",
+                "text": "Esteem needs",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "Mood congruence effect",
-                "isCorrect": true,
+                "text": "Safety needs",
+                "isCorrect": false,
                 "image": ""
             }
         ]
     },
     {
         "id": 4,
-        "question": "Threat-based aggression can stem from both a real stimulus or a perceived stimulus.",
+        "question": "According to Herzberg’s two-factor theory of motivation, pay and security provided by a job is a Motivator.",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
                 "text": "True",
-                "isCorrect": true,
+                "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
                 "text": "False",
-                "isCorrect": false,
+                "isCorrect": true,
                 "image": ""
             }
         ]
     },
     {
         "id": 5,
-        "question": "___________ is when you have a goal and you are moving towards that goal and you feel that something or someone is stopping you from reaching that goal.",
+        "question": "In Alderfer’s ERG theory of motivation, R stands for",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Threat-based aggression",
+                "text": "Reputation",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "Instrumental aggression",
+                "text": "Regression",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "Irritable aggression",
+                "text": "Resilience",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "Frustration-based aggression",
+                "text": "Relatedness",
                 "isCorrect": true,
                 "image": ""
             }
@@ -181,7 +169,71 @@
     },
     {
         "id": 6,
-        "question": "Fear of being rejected is one of the main reasons that make people non-assertive.",
+        "question": "____________ means that employees feel that the organization treats its employees in a fair manner and a just way.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Intra-personal conflict.",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Self-esteem",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Power motive",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Organizational Justice Climate",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question": "__________ is when you are moving towards a certain goal, but certain barriers are stopping you from achieving that goal.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Goal conflict",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Role conflict",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Frustration",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Satisfaction",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question": "One of the drawbacks of using money as a motivator is that it can reduce extra-role performance.",
         "questionImage": "",
         "multicorrect": false,
         "options": [
@@ -200,96 +252,32 @@
         ]
     },
     {
-        "id": 7,
-        "question": "The feeling of completely tired and exhausted when you are stressed for a very long time accompanied by lack of meaning is called:",
-        "questionImage": "",
-        "multicorrect": false,
-        "options": [
-            {
-                "id": 1,
-                "text": "Burnout",
-                "isCorrect": true,
-                "image": ""
-            },
-            {
-                "id": 2,
-                "text": "Absenteeism",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 3,
-                "text": "Hypo stress",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 4,
-                "text": "Alarm-reaction",
-                "isCorrect": false,
-                "image": ""
-            }
-        ]
-    },
-    {
-        "id": 8,
-        "question": "What are the behavioural symptoms of stress?",
-        "questionImage": "",
-        "multicorrect": false,
-        "options": [
-            {
-                "id": 1,
-                "text": "Low productivity",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 2,
-                "text": "Interpersonal conflicts",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 3,
-                "text": "Suicidal tendencies",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 4,
-                "text": "All of the above",
-                "isCorrect": true,
-                "image": ""
-            }
-        ]
-    },
-    {
         "id": 9,
-        "question": "__________ is a mild form of hate.",
+        "question": "John had applied for several jobs after graduation. One day he received a job offer from Tata Motors and Mahindra Group, both of which he loved to work. The conflict Mr. John is facing in selecting one job is called:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Guilt",
+                "text": "Role Conflict",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "Humiliation",
+                "text": "Approach-avoidance conflict",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "Resentment",
+                "text": "Approach-approach conflict",
                 "isCorrect": true,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "Shame",
+                "text": "Avoidance-avoidance conflict",
                 "isCorrect": false,
                 "image": ""
             }

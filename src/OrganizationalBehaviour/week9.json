@@ -1,63 +1,63 @@
 [
     {
         "id": 0,
-        "question": "The stress which happens because of positive incidences is called:",
+        "question": "The step in team decision making where the problem is defined and a consensus is arrived about what the problem is:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Distress",
+                "text": "Discussion",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "Eustress",
-                "isCorrect": true,
+                "text": "Implementation",
+                "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "Hypo-stress",
+                "text": "Representativeness",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "Hyper work stress",
-                "isCorrect": false,
+                "text": "Orientation",
+                "isCorrect": true,
                 "image": ""
             }
         ]
     },
     {
         "id": 1,
-        "question": "An unfocused, relatively mild feeling that exists as background to our daily experience is called:",
+        "question": "Making the smallest response possible that will reduce the problem to at least a tolerable level is called __________ to decision making.",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Behaviour",
+                "text": "Satisficing approach",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "Perception",
+                "text": "Rational Approach",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "Mood",
+                "text": "Incremental approach",
                 "isCorrect": true,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "Envy",
+                "text": "Garbage-can approach",
                 "isCorrect": false,
                 "image": ""
             }
@@ -65,31 +65,31 @@
     },
     {
         "id": 2,
-        "question": "The psychological effort involved in holding back one’s true emotions is called:",
+        "question": "Having a false sense of satisfaction even when problems start to show up is called:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Emotional dissonance",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 2,
-                "text": "Emotional labor",
+                "text": "Complacency",
                 "isCorrect": true,
                 "image": ""
             },
             {
+                "id": 2,
+                "text": "Procrastination",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
                 "id": 3,
-                "text": "Emotional Attachment",
+                "text": "Defensive avoidance",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "Temperament",
+                "text": "Panic",
                 "isCorrect": false,
                 "image": ""
             }
@@ -97,39 +97,7 @@
     },
     {
         "id": 3,
-        "question": "When John failed his driving license test, he starts to remember how his friends used to tease him saying he was not a good driver. This is an example of:",
-        "questionImage": "",
-        "multicorrect": false,
-        "options": [
-            {
-                "id": 1,
-                "text": "Work-family spillover effect",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 2,
-                "text": "Emotional dissonance",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 3,
-                "text": "Empathy",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 4,
-                "text": "Mood congruence effect",
-                "isCorrect": true,
-                "image": ""
-            }
-        ]
-    },
-    {
-        "id": 4,
-        "question": "Threat-based aggression can stem from both a real stimulus or a perceived stimulus.",
+        "question": "Trying to put the responsibility for decision making on somebody else is called buck passing.",
         "questionImage": "",
         "multicorrect": false,
         "options": [
@@ -142,6 +110,38 @@
             {
                 "id": 2,
                 "text": "False",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "The tendency to be influenced by an initial figure, even when the information is largely irrelevant is called:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Availability bias",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Overconfidence",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Anchoring and adjustment bias",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Representativeness",
                 "isCorrect": false,
                 "image": ""
             }
@@ -149,31 +149,31 @@
     },
     {
         "id": 5,
-        "question": "___________ is when you have a goal and you are moving towards that goal and you feel that something or someone is stopping you from reaching that goal.",
+        "question": "The group’s emphasis on harmony and conformity leading to a wrong decision is called:",
         "questionImage": "",
         "multicorrect": false,
         "options": [
             {
                 "id": 1,
-                "text": "Threat-based aggression",
+                "text": "Majority rule",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 2,
-                "text": "Instrumental aggression",
+                "text": "Synergy",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 3,
-                "text": "Irritable aggression",
+                "text": "Risk taking in groups",
                 "isCorrect": false,
                 "image": ""
             },
             {
                 "id": 4,
-                "text": "Frustration-based aggression",
+                "text": "Groupthink",
                 "isCorrect": true,
                 "image": ""
             }
@@ -181,7 +181,91 @@
     },
     {
         "id": 6,
-        "question": "Fear of being rejected is one of the main reasons that make people non-assertive.",
+        "question": "Sunk costs can be recovered.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "True",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "False",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question": "Tendency to invest additional resources in an apparently losing proposition, influenced by effort, money and time already invested:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Abilene Paradox",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Delphi method",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Escalation of commitment",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Groupthink",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question": "The tendency to make different decisions depending on how a problem is presented:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Framing",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Prospect theory",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Representativeness",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Bounded rationality",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question": "Finding a solution which is satisfactory than optimal is called satisficing approach to decision making.",
         "questionImage": "",
         "multicorrect": false,
         "options": [
@@ -194,102 +278,6 @@
             {
                 "id": 2,
                 "text": "False",
-                "isCorrect": false,
-                "image": ""
-            }
-        ]
-    },
-    {
-        "id": 7,
-        "question": "The feeling of completely tired and exhausted when you are stressed for a very long time accompanied by lack of meaning is called:",
-        "questionImage": "",
-        "multicorrect": false,
-        "options": [
-            {
-                "id": 1,
-                "text": "Burnout",
-                "isCorrect": true,
-                "image": ""
-            },
-            {
-                "id": 2,
-                "text": "Absenteeism",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 3,
-                "text": "Hypo stress",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 4,
-                "text": "Alarm-reaction",
-                "isCorrect": false,
-                "image": ""
-            }
-        ]
-    },
-    {
-        "id": 8,
-        "question": "What are the behavioural symptoms of stress?",
-        "questionImage": "",
-        "multicorrect": false,
-        "options": [
-            {
-                "id": 1,
-                "text": "Low productivity",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 2,
-                "text": "Interpersonal conflicts",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 3,
-                "text": "Suicidal tendencies",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 4,
-                "text": "All of the above",
-                "isCorrect": true,
-                "image": ""
-            }
-        ]
-    },
-    {
-        "id": 9,
-        "question": "__________ is a mild form of hate.",
-        "questionImage": "",
-        "multicorrect": false,
-        "options": [
-            {
-                "id": 1,
-                "text": "Guilt",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 2,
-                "text": "Humiliation",
-                "isCorrect": false,
-                "image": ""
-            },
-            {
-                "id": 3,
-                "text": "Resentment",
-                "isCorrect": true,
-                "image": ""
-            },
-            {
-                "id": 4,
-                "text": "Shame",
                 "isCorrect": false,
                 "image": ""
             }

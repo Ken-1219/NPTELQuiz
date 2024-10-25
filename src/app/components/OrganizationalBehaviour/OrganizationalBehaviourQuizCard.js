@@ -119,9 +119,22 @@ function SocialQuizCard({ data: weekData }) {
 
             {/* Correct or Incorrect */}
             {isSaved && (
-                <h1 className={`md:text-2xl text-lg font-semibold text-center mt-10 ${isCorrect ? 'text-green-500' : 'text-red-400'}`}>
-                    {isCorrect ? 'Correct' : 'Incorrect'}
-                </h1>
+                        <>
+                            <h1 className={`md:text-2xl text-lg font-semibold text-center mt-8 ${isCorrect ? 'text-green-500' : 'text-red-400'}`}>
+                                {isCorrect ? 'Correct' : 'Incorrect'}
+                            </h1>
+                            <h1 className={`md:text-2xl block text-lg font-semibold capitalize text-center ${isCorrect ? 'text-green-500' : 'text-red-400'}`}>
+                                Correct Answer:
+                                {options.map((option) => {
+                                    if (option.isCorrect) {
+                                        return (
+                                            <p key={option.id} className='text-center'>{option.text}</p>
+                                        )
+                                    }
+                                })}
+                            </h1>
+                        </>
+
             )}
 
 

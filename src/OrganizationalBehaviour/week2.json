@@ -118,7 +118,7 @@
     {
         "id": 4,
         "question": "In the above picture, we tend to see columns of dots due to a perceptual grouping effect called:",
-        "questionImage": "Image showing columns of dots",
+        "questionImage": "/images/OrganizationalBehaviourImgs/w2q5.png",
         "multicorrect": false,
         "options": [
             {
@@ -150,7 +150,7 @@
     {
         "id": 5,
         "question": "In the above image, one can still perceive the opening door to be of a rectangle shape due to:",
-        "questionImage": "Image showing an opening door perceived as a rectangle",
+        "questionImage": "/images/OrganizationalBehaviourImgs/w2q6.png",
         "multicorrect": false,
         "options": [
             {

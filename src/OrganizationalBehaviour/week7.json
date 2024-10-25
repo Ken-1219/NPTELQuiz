@@ -294,5 +294,25 @@
                 "image": ""
             }
         ]
+    },
+    {
+        "id": 10,
+        "question": "Treating the common resources responsibly is called civic virtue.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "True",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "False",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
     }
 ]

@@ -1,0 +1,286 @@
+[
+    {
+        "id": 0,
+        "question": "In Johari’s Window model of self-awareness, the part of the self which is not known to ourselves, but others know is called:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Open",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Blind",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Hidden",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Unknown",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "question": "The meaning of the Latin word ‘Persona’ from which the word Personality arises is:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Behaviour",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Mask",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Thought",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Person",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Many psychologists argue that one’s personality can be changed over a period of time because those qualities are formed because of social factors.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "True",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "False",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "According to Big Five Personality Theory, people who like to experiment and try and find out new things and are less judgmental about people of other cultures are high on:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Adjustment",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Agreeableness",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Conscientiousness",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Intellectual Openness",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "According to Sigmund Freud’s psychoanalytic theory, the deepest level of consciousness is:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Subconscious",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Conscious state",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Unconscious",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Awareness",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "According to Sigmund Freud, reality principle is followed by:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Id",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Super Ego",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Dream",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Ego",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question": "In social learning theory, the withdrawal of something which somebody likes to strengthen a behaviour is called:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Negative Reinforcement",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Positive Reinforcement",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Reward",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Punishment",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question": "The main proponent of Self Theory was:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Sigmund Freud",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Albert Bandura",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Carl Rogers",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "B.F. Skinner",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question": "Employees with high self-esteem are more ready to take responsibilities.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "True",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "False",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question": "People with _______ locus of control believe that others control their life and whatever happens in their life is because of outside factors.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Internal",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "External",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    }
+]

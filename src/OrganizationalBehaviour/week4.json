@@ -1,0 +1,298 @@
+[
+    {
+        "id": 0,
+        "question": "__________ are evaluative statements towards objects, people or events.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Learning",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Attitudes",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Memory",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Personality",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "question": "A relatively permanent change in behaviour occurring as a result of experience is called:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Thinking",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Sensation",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Learning",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Prejudice",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Providing more information can lead to change in attitude.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "True",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "False",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "In Pavlov’s Dog experiment, the food presented which makes the dog salivate is:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Unconditional stimulus",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Unconditional response",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Conditioned stimulus",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Conditioned response",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "In Operant conditioning, the process through which the responses that are no longer reinforced tend to gradually diminish in strength is called:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Positive reinforcement",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Negative Reinforcement",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Punishment",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Extinction",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "After watching a Dance TV show, a kid starts to make dance moves. This is an example of:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Operant conditioning",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Classical conditioning",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Observational learning",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Negative Reinforcement",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Opinion is primarily _______ in nature.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Affective",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Cognitive",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Behavioural",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Unconscious",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question": "The intensity of an attitude or the magnitude/degree of its favorableness is called",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Multiplexity",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Relation to need",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Centrality",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Valence",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question": "When people do not provide honest answers to certain questions because they feel that it is not right to give those answers, it is called:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Social Loafing",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Fatigue",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Social Desirability Effect",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Sampling",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question": "Uncomfortable tension which comes from holding two conflicting thoughts in the mind at the same time is called Cognitive Dissonance.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "True",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "False",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    }
+]

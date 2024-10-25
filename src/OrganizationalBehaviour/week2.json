@@ -1,0 +1,286 @@
+[
+    {
+        "id": 0,
+        "question": "Perception is highly objective.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "True",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "False",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "question": "There are many women at the bottom and middle level management roles but only a very few make it to the top. This is due to:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Impression Management techniques",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Golem effect",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Pygmalion effect",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Glass-ceiling effect",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "The process of giving meaning to sensory stimuli through organizing and interpreting is called:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Sensation",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Perception",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Sublimation",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Organization",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Which of the following is an internal factor that influence the principles of perceptual selection?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Contrast",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Repetition",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Motion",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Habit",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "In the above picture, we tend to see columns of dots due to a perceptual grouping effect called:",
+        "questionImage": "Image showing columns of dots",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Similarity",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Proximity",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Continuity",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Symmetry",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "In the above image, one can still perceive the opening door to be of a rectangle shape due to:",
+        "questionImage": "Image showing an opening door perceived as a rectangle",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Figure-Ground Perception",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Optical Illusions",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Perceptual Constancy",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Social Perception",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question": "The process through which individuals attempt to determine the causes behind others’ behaviour is called attribution.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "True",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "False",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question": "According to Kelley’s theory of causal attribution, the extent to which other people behave in the same manner as the person we are judging is called:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Consensus",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Consistency",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Distinctiveness",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Identity",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question": "The tendency to attribute others’ action to internal causes while largely ignoring external factors is called:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Halo effect",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Team-Halo effect",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Fundamental attribution error",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Similar-to-me effect",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question": "The word “Carpenter” immediately brings into memory the image of a male individual rather than a female individual. This is an example of a job stereotype.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "True",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "False",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    }
+]

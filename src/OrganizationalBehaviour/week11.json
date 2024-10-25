@@ -1,0 +1,286 @@
+[
+    {
+        "id": 0,
+        "question": "A type of thought exhibited by group members who try to minimize conflict and reach consensus without critically testing, analyzing and evaluating ideas.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Groupthink",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Instrumentality",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Mundane task",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Team cohesion",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "question": "Airline attendant teams are an example of:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Production teams",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Service teams",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Advisory teams",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Management teams",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Groups are more cohesive than teams and groups are a subset of teams.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "True",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "False",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Which of the following is the source of organizational culture?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Selection practices",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Actions of top management",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Socialization methods",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Founder’s vision/mission/attitudes",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "The stage of group development at which unwritten rules for teams are established:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Norming",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Storming",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Forming",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Adjourning",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "Taking advantage of other members in a group and claiming ownership for their work is called:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Altruism",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Groupthink",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Freeriding",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Synergy",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Sometimes in teams, people may think that if they work more, other people will take advantage of them and give all the responsibilities to them. So it is better to decrease their performance. This phenomenon is called:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "De-individualization",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Social loafing",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Freeriding",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Sucker aversion",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question": "Low trust among the team members can often lead to social loafing.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "True",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "False",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question": "Culture influences both the conscious and unconscious level of the mind.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "True",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "False",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question": "An organization in which its culture is driven by the motive for affiliation:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Bureaucracy",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Industrial Organization",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Clubs",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Educational Institutions",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    }
+]

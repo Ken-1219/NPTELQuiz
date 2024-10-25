@@ -1,0 +1,298 @@
+[
+    {
+        "id": 0,
+        "question": "_________ is the ability to persuade others to seek defined objectives enthusiastically.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Coercion",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Behavioural change",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Leadership",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Authority",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "question": "The theory which states that the subordinates will be motivated to follow the leader only when they perceive that the leader can help them to fulfil their goals:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Path-goal theory",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Fiedler’s model",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Hersey and Blanchard’s situational leadership theory",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Trait theory",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "The source of power which is based on the capacity to administer punishment to others:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Legitimate",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Reward",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Coercive",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Expert",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "Expert power is when you have certain abilities which nobody else has or is very rare.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "True",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "False",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Information or skills one possesses, which cannot be recorded or measured is called:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Empowerment",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Referent power",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Gossiping",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Tacit knowledge",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "The form of political behaviour exhibited when employees try to form a group based on common language they speak is:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Impression management",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Building coalitions",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Blaming",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Manipulating information flow",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "question": "While managers rely on control, leaders _________.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Ask how and when",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Focus on systems and structure",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Accept status quo",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Inspire trust",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "question": "The leadership style where the responsibilities are shared by all and can be very useful in businesses where creative ideas are very important:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Autocratic",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Laissez-Faire",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Charismatic",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Paternalistic",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "question": "Democratic leadership style encourages decision making from different perspectives.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "True",
+                "isCorrect": true,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "False",
+                "isCorrect": false,
+                "image": ""
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "question": "The ideal case in Blake Mouton Managerial Grid of Leadership style is:",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {
+                "id": 1,
+                "text": "Country club",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 2,
+                "text": "Impoverished",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 3,
+                "text": "Produce or perish",
+                "isCorrect": false,
+                "image": ""
+            },
+            {
+                "id": 4,
+                "text": "Team Leader",
+                "isCorrect": true,
+                "image": ""
+            }
+        ]
+    }
+]

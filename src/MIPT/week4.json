@@ -1,0 +1,122 @@
+[
+    {
+        "id": 30,
+        "question": "In the first World's Parliament of Religions, held at the Art Institute of Chicago in 1893, Vivekananda delivered a profound speech that moved the attendees. What was his speech about?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Universal education", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Universal tolerance", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Universal democracy", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Universal religion", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 31,
+        "question": "Which one of the following sentences is not correct about Vivekananda's views on the idea of freedom?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Vivekananda believed that freedom was the key to a spiritual, social, and political life.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Vivekananda opined that social and political liberty could be realized without paying attention to moral, ethical, and religious concerns.", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "For Vivekananda, freedom was essential for an individual's social, political, or economic growth.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Vivekananda considered that freedom is needed to maintain religious harmony and realize individual personality.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 32,
+        "question": "Which of the following statements accurately captures Vivekananda's views on politics and religion?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Politics and religion are two different domains.", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "Politics and religion are inseparable.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Religion is only a manifestation of politics.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Politics is dependent on religion.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 33,
+        "question": "From the statements below, choose the most accurate regarding the philosophy of 'Advaita Vedanta,' as propounded by Vivekananda.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "The philosophy of 'Advaita Vedanta' believes in the non-dualistic ultimate reality.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "The philosophy of 'Advaita Vedanta' aims to break down the existing privileges among people.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "In the philosophy of 'Advaita Vedanta,' man is considered no different from God, and it is held that human actions and thoughts should be guided by the principles of the divinity of the soul and the solidarity of mankind.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "All of these are correct.", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 34,
+        "question": "In the views of Vivekananda, which of the following was not among the three ways of tackling the existing social concerns in India?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Emancipation of Women", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Positive Education", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Cultural Assimilation", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Upliftment of the Masses", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 35,
+        "question": "How did Vivekananda approach the colonial rule in India?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Vivekananda held that the colonial rule had hypnotised the Indian mind and taken away its dignity and self-belief.", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "Vivekananda defended the colonial rule on the grounds of its promotion of civil liberties.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Although Vivekananda was apprehensive about colonial rule, he believed that bringing social legislation could ensure justice in that situation.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Vivekananda was very skeptical of the West and opposed colonial rule for that very reason.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 36,
+        "question": "Who among the following was the spiritual guru of Vivekananda?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Shri Ramakrishna Paramhans", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "Mahatma Gandhi", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Raja Ram Mohan Roy", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Shankaracharya", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 37,
+        "question": "Read the following two statements and choose the correct option from below:\n\nStatement-I: Vivekananda believed in the Varnashrama system.\nStatement-II: Vivekananda criticised the Brahmanical practice of excluding the Shudras from accessing Vedic knowledge.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Only Statement I is correct.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Only Statement II is correct.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Both Statements I and II are correct.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Neither Statement I nor II is correct.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 38,
+        "question": "Which of the following statements represents Vivekananda's thoughts on democracy?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Vivekananda understood democracy as a process that inculcates faith, self-reliance, and self-government.", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "For Vivekananda, democracy was equal to any form of direct rule.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "For Vivekananda, democracy was a mode of anarchy.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "By democracy, Vivekananda only referred to the indirect forms of representation.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 39,
+        "question": "The compilation of the lectures given by Vivekananda in London was published as _________.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Karma Yoga", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Philosophical Vedanta", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Practical Vedanta", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "A Memoir of London", "isCorrect": false, "image": ""}
+        ]
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 90,
+        "question": "Which of the following statements is incorrect regarding Ambedkar's understanding of democracy?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "For Ambedkar, democracy is the means and ends of forming an ideal society.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Ambedkar argued that scientific outlook and rationality are not necessarily linked to the practice of democracy.", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "In Ambedkar’s view, democracy is not merely a form of government but also a mode of associated living where everybody is treated with respect.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Ambedkar envisioned democracy as a medium of social transformation and human progress.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 91,
+        "question": "What is Ramabai’s idea of true religion?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Religion is about following sacred scriptures, and the priestly class", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Ancient Hinduism is the true religion", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Christianity is the true religion", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Religion is about acting according to one’s conscience", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 92,
+        "question": "According to Ambedkar, which of the following institutions was the representative of the modern forms of parliamentary democracy in India?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Buddhist Sanghas", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "Mughal Durbars", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Islamic Madrasas", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Khap Panchayats.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 93,
+        "question": "“A democratic form of government presupposes a democratic form of a society; the formal framework of democracy is of no value and would indeed be a misfit if there was no social democracy”.\n-The above statement was made by",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Jawaharlal Nehru", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Pandita Ramabai", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "B.R. Ambedkar", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Mahatma Gandhi", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 94,
+        "question": "Pandita Ramabai is known as a devoted champion of women’s rights in India. From the following statements, choose the one that most adequately explains her approach towards women’s emancipation.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Ramabai argued that the emancipation of women was possible through social reforms.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Ramabai argued that the emancipation of women could be brought about through education.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Ramabai’s vision for women’s emancipation was not limited to social reform and education alone. Liberating women through self-reliance was another essential aspect of women’s emancipation for Ramabai.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Ramabai held that it was only through Western liberal education that women could be emancipated.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 95,
+        "question": "Which of the following institutions was not founded by Ramabai?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Arya Mahila Samaj", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Mukti Sadan", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Sharda Sadan", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Seva Sadan", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 96,
+        "question": "Who among the following regarded Ramabai's conversion to Christianity as a radical act that challenged the upper caste Hindu patriarchal system?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Kanshi Ram", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "B.R. Ambedkar", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Jyotirao Phule", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Bal Gangadhar Tilak", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 97,
+        "question": "Which of the following, according to Ambedkar, is crucial for preserving and strengthening democracy in India?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Embracing extra-constitutional methods in politics", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Fostering hero-worship of leaders", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Upholding political democracy alongside social and economic democracy", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "None of these.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 98,
+        "question": "During the pilgrimages that Ramabai undertook during her childhood with her parents, she had the opportunity to learn many languages. Which among the following was not one of those?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Marathi", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Bengali", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Hindustani", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Kannada", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 99,
+        "question": "Which of the following is not an element of constitutional morality?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Freedom and self-restraint.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Recognition of plurality.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Being sceptical of any personification of authority.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Right to violent protest when necessary.", "isCorrect": true, "image": ""}
+        ]
+    }
+]

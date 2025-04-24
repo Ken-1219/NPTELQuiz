@@ -1,0 +1,122 @@
+[
+    {
+        "id": 100,
+        "question": "From the following statements, choose the one that is not correct regarding Ramabai’s ideas as explicated in her book ‘Stri Dharma Niti’.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "In ‘Stri Dharma Niti’, Ramabai advised the wife not to disobey her husband.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "In ‘Stri Dharma Niti’, Ramabai presumed that domestic works were the primary responsibility of women.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "In ‘Stri Dharma Niti’, Ramabai supported child marriage.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "In ‘Stri Dharma Niti’, Ramabai supported marriage after attaining an appropriate age.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 101,
+        "question": "Ram Manohar Lohia is known as—",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "A socialist thinker", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "A capitalist thinker", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "A spiritual thinker", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "A communist thinker", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 102,
+        "question": "According to Yogendra Yadav, what was not among the three ‘sins’ that Lohia committed which ultimately led to the absence of Lohia’s ideals in the public political discourse in India after his death?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Lohia’s personal attack on Nehru in a period when the latter was considered God-like.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Lohia’s campaign against English.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Lohia’s campaign against Hindi.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Lohia’s questioning of upper-caste dominance.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 103,
+        "question": "Read the following two statements and choose the correct option from below:\n\nStatement-I: Ramabai argued that neither the male members from their own race nor any female teacher from a foreign land was appropriate for educating Indian women.\n\nStatement-II: Ramabai argued that the diffusion of knowledge should come from within, and native women teachers were more suitable for that task.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Only Statement-I is correct.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Only Statement-II is correct.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Both Statement-I &II are correct.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Neither Statement-I nor Statement-II is correct.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 104,
+        "question": "In her autobiographical account, A Testimony of Our Inexhaustible Treasure, Ramabai had a critical outlook towards the Hindu Dharma Shastras. She particularly stated that all Hindu scriptures exhibited one feature in common: the marginalisation of women and ___________.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Marginalisation of the Kshatriyas", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Marginalisation of the lower castes", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Marginalisation of the transgender community", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Marginalisation of the non-Aryans.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 105,
+        "question": "According to Ramabai, what were the presumed beliefs which led to the unwantedness of a girl child in India?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "It was presumed that a girl child was the property of someone else.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "It was presumed that a girl child would be of no use to her parents in their old age.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "It was presumed that it was only through the male child that salvation could be attained.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "All of these.", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 106,
+        "question": "On the questions of caste and modernity, which among the following thinkers can be regarded as a bridge between Gandhi and Ambedkar?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Pandita Ramabai", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Jawaharlal Nehru", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Jyotiba Phule", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Ram Manohar Lohia", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 107,
+        "question": "Read the following two statements and choose the correct option from below:\n\nStatement-I: Ramabai argued that Indian women had a better status in the past in comparison to her contemporary degradation.\nStatement-II: Ramabai explains this degradation in the status of women in terms of the degradation of the Hindu nation.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Only Statement-I is correct.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Only Statement-II is correct.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Both Statement-I &II are correct.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Neither Statement-I nor Statement-II is correct.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 108,
+        "question": "From the following statements, choose the one that is not correct regarding Lohia’s ‘principle of immediacy’.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Each action has an ethical justification intrinsic to itself.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "The ethical justification of each action is based on the present and not on the distant future.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "The principle of immediacy would save people from the politics of greed or fear.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Human actions can only be justified in relation to their future implications, not their present ramifications.", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 109,
+        "question": "According to Ramabai, which among the following stages of the life of a high-caste Hindu woman can be considered the most dreadful period for her?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Childhood", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Adolescence", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Widowhood/Old Age", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Married Life", "isCorrect": false, "image": ""}
+        ]
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 60,
+        "question": "From the following political thinkers, choose the one who was not associated with the tradition of Hindu Nationalism.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Bal Gangadhar Tilak", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Lala Lajpat Rai", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Jawaharlal Nehru", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "V.D. Savarkar", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 61,
+        "question": "Which of the following is not correct regarding the social and political thought of Savarkar?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Savarkar thought that only the fittest can survive the struggle of life while the others get eliminated eventually.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Savarkar supported the principle of absolute non-violence.", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Savarkar believed in relative morality and argued that the morality of an action should be judged in accordance with the specificity of the action concerned.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Savarkar believed that violence is natural to human society.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 62,
+        "question": "The book ‘Life of Barrister Savarkar’ was written by",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "M.S. Golwalkar", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "V.D. Savarkar", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "K.B. Hedgewar", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Nathuram Godse", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 63,
+        "question": "Read the following two statements and choose the correct option from below:\n\nI. Savarkar did not negate the right of minorities to co-exist, but he made it conditional on the ground of their acceptance of Hindu dominance.\nII. Savarkar supported preferential treatment to those minorities who accepted his condition of accepting the domination of Hindus.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Only the statement (I) is correct.", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "Only the statement (II) is correct.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Both (I &II) statements are correct.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Both (I & II) statements are incorrect.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 64,
+        "question": "According to V.D. Savarkar, which of the following terms can be the closest parallel to his philosophy of ‘Hindutva’?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Hinduism", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Hinduness", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Hindi", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Hindustan", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 65,
+        "question": "From the following statements choose the one that is not correct regarding Savarkar’s views on the definition of ‘Hindu’.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "According to Savarkar, to be categorised as a Hindu, one must consider this land as both their fatherland as well as holy land.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Savarkar minimised the significance of the religious criterion in the definition of a Hindu.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Savarkar held that the religious criterion- that being a follower of Hinduism- was the most essential feature of defining a Hindu.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Savarkar argued that Hindus were primarily the descendants of the Aryans.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 66,
+        "question": "According to Savarkar, which of the following Indian languages has the potential to preserve Hindu culture?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Sanskrit", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "Braj Bhasha", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Marathi", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Prakrit", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 67,
+        "question": "From the following statements, choose the one that is not correct regarding Savarkar’s ideological differences with Mahatma Gandhi.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "In contrast to Gandhi, Savarkar advocated for science and rationality in the age of machines and technologies.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Savarkar was more vocal against dogmatic religious practices than Gandhi.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Savarkar was opposed to absolute non-violence, as propounded by Gandhi.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Both Savarkar and Gandhi emphasised the practice of absolute non-violence in any political situation.", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 68,
+        "question": "From the following statements, choose the one that is not correct regarding Savarkar’s ideas on nationalism.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Savarkar viewed culture, religion, race, and historical affinity as contributors to the formation of nations.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Savarkar’s ideas on nationalism were a synthesis of territorial nationalism offered by Congress and cultural-religious nationalism put forward by the Muslim League.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Savarkar argued that, in the formation of a national unit, territorial unity had a bigger role to play than religious, racial or cultural attributes.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Savarkar regarded one language and one culture (ek bhasha ek sanskriti) as the basis of the formation of modern nations.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 69,
+        "question": "Who among the following inspired V D Savarkar’s ideas on nation and nationalism?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Vivekananda", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Mazzini", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Mahatma Gandhi", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Ernest Renan", "isCorrect": false, "image": ""}
+        ]
+    }
+]

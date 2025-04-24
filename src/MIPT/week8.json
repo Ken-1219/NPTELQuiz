@@ -1,0 +1,122 @@
+[
+    {
+        "id": 70,
+        "question": "Which of the following sentences is incorrect regarding Jawaharlal Nehru’s vision of Indian Nationalism?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Jawaharlal Nehru envisioned Indian nationalism to be secular.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Jawaharlal Nehru envisioned Indian nationalism to be rational.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Jawaharlal Nehru envisioned Indian nationalism to be guided by the principles of Hinduism.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Jawaharlal Nehru envisioned Indian nationalism to be international in its outlook.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 71,
+        "question": "In which of the following sessions Congress passed a Resolution on 'Fundamental Rights and Economic and Social Change'?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Karachi Session of 1931", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "Kanpur Session of 1925", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Nagpur Session of 1920", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Madras Session of 1927", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 72,
+        "question": "Read the following two statements and choose the correct option from below:\nStatement-I: In his initial years, Jawaharlal Nehru favoured the radical politics of extremists like that of Bal Gangadhar Tilak.\nStatement-II: Nehru particularly admired the religious underpinnings of the extremists in that period.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Only Statement-I is correct.", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "Only Statement-II is correct.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Both Statement-I &II are correct.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Neither Statement-I nor Statement-II is correct.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 73,
+        "question": "Which of the following sentences is incorrect regarding Nehru's views on socialism?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Nehru considered socialism as the most appropriate way of reducing poverty in India.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Nehru added a moral concern to the idea of socialism.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Nehru held that democracy and socialism are complementary to each other.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Despite his inclination towards socialism, Nehru didn’t advocate for the Indian state to adopt socialist principles.", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 74,
+        "question": "The monumental speech that Nehru delivered on the eve of India’s independence is known as—",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "The Future of India", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "My Vision for India", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Tryst with Destiny", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Swaraj is my Birth Right", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 75,
+        "question": "How did Jawaharlal Nehru approach the doctrine of secularism?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "For Nehru, secularism was not merely a political doctrine but also a social one.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "For Nehru, secularism meant a social structure wherein individuals would not be subjected to any hierarchy based on their religion.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Nehru also held that, in secularism, inter-group and inter-personal relations would not be adversely affected by religious considerations.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "All of these.", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 76,
+        "question": "Read the following two statements and choose the correct option from below:\nStatement-I: Nehru had a broader understanding of democracy, emphasising its social and economic dimensions.\nStatement-II: Nehru also held that it is only with the presence of equality that democracy can be sustained.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Only Statement-I is correct.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Only Statement-II is correct.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Both Statement- I & II are correct.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Neither Statement-I nor Statement-II is correct.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 77,
+        "question": "Jawaharlal Nehru is known for his secularist outlook towards politics. He focused on how a secular state should act in a society marked with religious diversity. From the following statements, choose the one that is incorrect regarding his ideas on the functions of a secular state in a religiously diverse society.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "It is the duty of the secular state to protect religious diversity.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "A secular state should be committed to the rights of the minorities.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Inter-religious domination is a natural consequence of a religiously diverse society, and it can be resolved spontaneously. Under no circumstances should a secular state intervene in the mutual affairs among existing religious communities.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "A secular state should intervene in the majoritarian acts of a religious community in order to undermine inter-religious domination.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 78,
+        "question": "Read the following two statements on Gandhi and Nehru's vision of state and economic development, and choose the correct option from below:\n\nStatement-I: Gandhi and Nehru were unanimous on their idea of the state as a soulless machine and stated that it could hardly achieve any substantive development for the people.\nStatement-II: While Gandhi supported decentralization and small-scale industries, Nehru, on the other hand, was an advocate of centralized and planned economic development.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Only Statement-I is correct.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Only Statement-II is correct.", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Both Statement- I & II are correct.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Neither Statement-I nor Statement-II is correct.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 79,
+        "question": "Nehru was the founding editor of which of the following newspapers?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Times of India", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "The Hindu", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "National Herald", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Dainik Bhaskar", "isCorrect": false, "image": ""}
+        ]
+    }
+]

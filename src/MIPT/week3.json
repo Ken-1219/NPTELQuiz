@@ -1,0 +1,122 @@
+[
+    {
+        "id": 20,
+        "question": "The political thought of Aurobindo engages with—",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Only the political dimensions of human life.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Only the spiritual dimensions of human life.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Both the political and spiritual dimensions of human life.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Neither the political nor the spiritual dimensions of human life.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 21,
+        "question": "During the early phases of his life, Aurobindo actively participated in the national movement of India. During this time, his companionship is known with which of the following political leaders?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Bipin Chandra Pal", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Bal Gangadhar Tilak", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Both Bipin Chandra Pal and Bal Gangadhar Tilak", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "B.R. Ambedkar.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 22,
+        "question": "What does ‘True Self’ mean as articulated by Aurobindo?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Rational mind", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Truthful self", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Spiritual individual", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Physical self", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 23,
+        "question": "Who founded the journal ‘Karmayogin’?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Mahatma Gandhi", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Aurobindo", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Bal Gangadhar Tilak", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Jawaharlal Nehru", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 24,
+        "question": "Which of the following sentences is incorrect about Aurobindo’s views on Nationalism?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Aurobindo had a religious conception of nationalism.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Aurobindo believed that nationalism was a religion gifted by God and argued that God was immortal, and so was nationalism.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Aurobindo viewed nationalism as a hindrance towards attaining human unity.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Aurobindo argued that nationalism is not merely a political programme.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 25,
+        "question": "From the following statements, choose the one that is not correct regarding Aurobindo’s conceptualisation of a ‘spiritual religion of humanity’.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "A spiritual religion of humanity emphasises a universal religion for all human beings.", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "A spiritual religion of humanity is considered as the means for universal human unity.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "A spiritual religion of humanity indicates the increasing realisation of a divine reality in which we are all one.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Aurobindo advocates a spiritual religion of humanity because, in his view, spiritual foundation can lead to the psychological unification of people.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 26,
+        "question": "During the freedom movement in India, Aurobindo was associated with which one of the following?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Moderate section of the Congress", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Extremist section of the Congress", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Indian National Army", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Muslim League", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 27,
+        "question": "Read the following statements and choose the correct option from below:\n\nStatement I: Aurobindo talks about the ‘economics of a spiritualised society’, which intends to provide everyone with the pleasure of work in accordance with their nature and leisure as required for their inner development.\nStatement II: According to Aurobindo, the prime objective of that society is to ensure a stable machinery of production for a longer time.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Only Statement-I is correct.", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "Only Statement-II is correct.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Both Statement-I & Statement-II are correct.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Neither Statement-I nor Statement-II are correct.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 28,
+        "question": "Rajas element denotes—",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "A state of illumination", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "A state of ignorance", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "The will to action", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "A state of luxury", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 29,
+        "question": "Which one of the following sentences is not correct about Aurobindo’s views on the Gita?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Aurobindo argued that the Gita should not be understood merely in its metaphysical connotations of ancient times.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Aurobindo argued that the Gita should be understood in its renewed relevance to the living truths that it contains.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Aurobindo believed that the Gita could not offer much in discovering the horizons of the future.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Rather than focusing on the relevance of the Gita in understanding the past, Aurobindo’s approach towards it was more future-oriented.", "isCorrect": false, "image": ""}
+        ]
+    }
+]

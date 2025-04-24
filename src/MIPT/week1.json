@@ -1,0 +1,122 @@
+[
+    {
+        "id": 0,
+        "question": "What are the distinctive features of modern Indian political thinkers?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "The ideas of modern Indian political thinkers are historically rooted in the context of colonialism.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "An amalgamation of political activism and theoretical reflection is peculiar to modern Indian political thinkers.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Modern Indian political thinkers have unique metaphysical and epistemological questions that may substantially differ from the Western thinkers.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "All of these.", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 1,
+        "question": "Raja Rammohan Roy was a vocal proponent of the freedom of the press. From the following, choose the one that was not among those grounds that he presented to the British Crown to relax press regulation in India.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Press as a necessity for the sustainability and durability of British rule.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Press as a grievance redressal mechanism.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Press as a rightful platform for the revolutionary nationalist activities of Indians.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Press as a means to keep a check on Christian missionaries who are meddling with the religious practices of natives.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 2,
+        "question": "Which of the following sentences is not correct regarding the interlinkages between political thought and political theory?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Both political theory and political thought are concerned with the understanding of politics.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Political thought is less systematic and generalized than political theory.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "To be considered as political theory, it should inevitably be developed in the West.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Political thought is narrower in scope than political theory.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 3,
+        "question": "‘Mirat-ul-Akhbar’ was founded and edited by which of the following political thinkers?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Abul Fazl", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Sheikh Mujibur Rahman", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Raja Rammohan Roy", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Muhammad Iqbal", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 4,
+        "question": "Which of the following is not correct regarding Raja Rammohan Roy’s approach to religion?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Raja Rammohan Roy was a proponent of monotheism.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Raja Rammohan Roy held that sacred religious texts should only be available for the orthodox Brahmins as making them publicly accessible could result in their misinterpretation.", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Raja Rammohan Roy opposed the monopoly of orthodox Brahmins over the sacred texts.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Raja Rammohan Roy argued that religious associations could bring social and political transformations in society.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 5,
+        "question": "“From India may come influences which will widen the horizons of Western political thinkers and which will give political ideas a sounder foundation of philosophical and metaphysical speculation.” Which of the following scholars made the above statement?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Norman D Palmer", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "Shefali Jha", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Ramachandra Guha", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Anthony Parel", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 6,
+        "question": "Raja Rammohan Roy was not influenced by which of the following events or ideas?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "French Revolution", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Freedom movement in Spain", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Cultural Revolution in China", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Freedom movement in Latin America", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 7,
+        "question": "Why did Raja Rammohan Roy promote modern Western education?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Raja Rammohan Roy promoted modern Western education due to its mere instrumentality for career advancements for the Indians.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Raja Rammohan Roy considered modern Western education to be a medium for social transformation.", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Raja Rammohan Roy promoted modern Western education because he didn’t value Indian customs and traditions.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "None of these.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 8,
+        "question": "On 5th April 1823, the colonial government issued an order restricting the freedom of the press in India. What was not among the grounds on which a publication could be restricted according to this order?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Any publication that propagated native religions.", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "Any publication that could threaten the peace, harmony and order in society.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Any publication that could create suspicion and hatred among the Indians towards the colonial government.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Any publication that was considered harmful and defamatory towards the royal family, government officials, and their allied powers.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 9,
+        "question": "Which of the following is not correct regarding Raja Rammohan Roy’s outlook towards the British rule?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Raja Ram Mohan Roy thought that British rule would promote civil liberties.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "The only reason why Raja Rammohan Roy opposed the British rule was the denial of civil liberties to the Indians.", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Raja Ram Mohan Roy had chosen civil and religious liberty over political liberty.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Raja Ram Mohan Roy considered that the natives of his period lacked the capacity for self-governance.", "isCorrect": false, "image": ""}
+        ]
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "id": 10,
+        "question": "On what grounds did Rabindranath Tagore oppose the Non-cooperation Movement?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Rabindranath Tagore regarded the Non-cooperation Movement as being based on blind national pride.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Rabindranath Tagore also argued that parochial anti-West tendencies within the Indian National Movement could hinder India’s relationship with the international community.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Rabindranath Tagore was sceptical of Gandhiji’s call for boycotting foreign goods or clothes, based on the belief that Western textiles were impure. Tagore considered that as propagating untruths to sustain a political agitation.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "All of these.", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 11,
+        "question": "Which one of the following sentences is not correct about Rabindranath’s views on the idea of man?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Tagore was radical in his understanding of man and individual freedom.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Tagore did not believe in the moral or ethical side of man.", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Tagore emphasised both the moral and the spiritual aspects of human nature.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Tagore also spoke about the duality in human nature.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 12,
+        "question": "From the following statements, choose the one that is not correct regarding Rabindranath Tagore’s ideas on the East and the West.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Rabindranath Tagore is known for his anti-West approach.", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "Rabindranath Tagore advocated for a symbiosis of the East and the West.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Rabindranath Tagore sought a deep association between the cultures of the East and the West.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Rabindranath Tagore believed that a creative unity between the East and the West was only possible when the East had discovered its soul and identity for that reason.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 13,
+        "question": "What is/are not correct regarding Rabindranath Tagore’s ideas on cosmopolitanism?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Rabindranath Tagore considered all human beings as world citizens and argued that they owe their primary allegiance to the world community.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Rabindranath Tagore argued that the motivation behind cosmopolitanism is based on an existential orientation- a way of being in this world.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Rabindranath Tagore’s ideas on cosmopolitanism draws its justifications from theoretical abstractions devoid of any existential orientation.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Rabindranath Tagore’s cosmopolitanism is partly a consequence of his philosophical and historiographical understanding that statist conceptions of history cannot totally capture social life.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 14,
+        "question": "Which of the following is not correct regarding Tagore’s views on the Zamindari system?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Tagore argued that the zamindari system was for the benefit of the masses.", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "Tagore believed that the zamindari system, which claimed to represent the people's interests, was flawed.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "As a practitioner of zamindari, Tagore could sense the cruelty associated with the zamindari system.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Tagore was genuinely apologetic and embarrassed about the whole system of zamindari.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 15,
+        "question": "According to Rabindranath Tagore, what does the ‘Universal Man’ strive for?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Happiness", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Necessities", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Magnificence", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Beauty", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 16,
+        "question": "What was Rabindranath Tagore’s position on the Charkha Programme?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Rabindranath Tagore was apprehensive about the charkha and didn’t think that the mere burning of foreign clothes was a solution to India’s problems.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "The economic efficiency of the Charkha Programme was questionable for Rabindranath Tagore.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Rabindranath Tagore was also skeptical of the use of moral language instead of economic language in the programme.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "All of these.", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 17,
+        "question": "In response to which of the following events did Rabindranath Tagore renounce his Knighthood?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Jallianwala Bagh Massacre", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "Partition of India", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Non-Cooperation Movement", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "The Holocaust", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 18,
+        "question": "From the following sentences, choose the one that is not correct regarding Rabindranath Tagore’s ideas on nationalism.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Tagore was an ardent nationalist of his time.", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "Tagore viewed nationalism as the breeding ground for imperialism.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Tagore viewed nationalism as a danger to humanity.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Tagore argued that the obsession with nationalism could lead to war, hatred and mutual suspicion among the nations.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 19,
+        "question": "Tagore can also be regarded as a rooted cosmopolitan thinker because—",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Tagore believed in the universal values of the East.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Tagore respected the Indian tradition.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Tagore respected various individual traditions and nationalities but also believed in universal values.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Tagore believed in the universal values of the West.", "isCorrect": false, "image": ""}
+        ]
+    }
+]

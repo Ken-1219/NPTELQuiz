@@ -1,0 +1,122 @@
+[
+    {
+        "id": 110,
+        "question": "Ram Manohar Lohia’s approach towards understanding social stratifications and inequality can be termed as—",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "A class-based approach", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "A linguistic approach", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "An intersectional approach", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "A gender-based approach", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 111,
+        "question": "Despite agreeing with Periyar on many political aspects, Ram Manohar Lohia also differed from him on certain occasions. What is not correct regarding Lohia’s disagreements with Periyar?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Lohia differed from Periyar on the issues of violent anti-Brahmanism.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Lohia differed from Periyar in the latter’s campaigns against Gandhi.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Lohia differed from Periyar in the latter’s campaigns against Hindi.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Lohia differed from Periyar on the need to annihilate caste.", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 112,
+        "question": "From the following statements, choose the one that is not correct regarding Lohia’s views on the reservation system.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Lohia was a major proponent of the reservation system in India as he thought that it would enable the entry of the marginalised sections of society into public life and administration.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Lohia viewed that reservation was a means to secure selfish and individualistic objectives.", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Lohia viewed reservation as a means to bring social equality.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Lohia also viewed that reservation could act towards the enhancement of national prosperity.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 113,
+        "question": "From the following statements, choose the one that is not correct regarding Lohia’s approach towards the caste system.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Lohia regarded caste as both a discriminating social structure’ and a disabling cultural phenomenon’.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Lohia argued that caste had a uniform mode of operation across the country.", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Lohia argued that the destruction of the caste system was not an easy task and required a multi-sided attack on the political, historical, philosophical and economic roots of the system.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Lohia argued that in its form and operation, caste exhibited region-specific variations in the country.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 114,
+        "question": "Read the following two statements and choose the correct option given below:\n\nStatement I: Lohia was a prominent leader of the ‘Angrezi Hatao Movement’, and he advocated the replacement of English with the Hindi language as the lingua franca of India.\n\nStatement II: Lohia opposed English not because it was a foreign language but because it was, in the Indian context, a vehicle of inequality and social exclusion.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Only Statement I is correct.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Only Statement II is correct.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Both Statements I &II are correct.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Neither Statement I nor Statement II is correct.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 115,
+        "question": "The book entitled ‘Marx, Gandhi and Socialism’ was authored by which of the following political thinkers?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "B.R. Ambedkar", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Ram Manohar Lohia", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "M.N. Roy", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Jayaprakash Narayan", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 116,
+        "question": "What is/are not among the four key areas that Lohia considered important to root out the double oppression of the women of depressed castes?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Re-examination of the institution of marriage and the hypocrisies involved.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Equality in educational and property rights.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Preferential treatment in politics and employment.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Educating women on performing their duties as ideal wives and mothers.", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 117,
+        "question": "According to Lohia, the Indian ruling caste had three distinctive features. What was not one among those?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "English education", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Wealth", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Religion", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "High caste", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 118,
+        "question": "What was/were not included in Lohia’s ‘Sapt Kranti’ (Seven Revolutions)?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Satyagraha", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Destruction of castes", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Protection of private property", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Equality between men and women", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 119,
+        "question": "Who among the following had proposed the idea of Chaukhambha Raj (Four Pillar States) that included: village, district, province, and center?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Jayaprakash Narayan", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Rammanohar Lohia", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Jawaharlal Nehru", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Madan Mohan Malviya", "isCorrect": false, "image": ""}
+        ]
+    }
+]

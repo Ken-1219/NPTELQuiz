@@ -1,0 +1,122 @@
+[
+    {
+        "id": 80,
+        "question": "From the following ideologies, choose the one that Jawaharlal Nehru did not associate with.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Socialism", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Internationalism", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Imperialism", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Nationalism", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 81,
+        "question": "The Mahad Satyagraha in 1927, led by B R Ambedkar, mainly aimed at—",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Asserting the right to access public tanks and wells by the untouchables.", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "Securing voting rights for the Mahad caste.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Attaining a separate electorate for the Dalits", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Propagating the ideals of Gandhian satyagraha among members of the Mahad caste.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 82,
+        "question": "From the given statements, choose the one that is not correct regarding Nehru’s overall conception of foreign policy.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Nehru viewed that a country’s foreign policy should promote international peace and security.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Nehru viewed that a country’s foreign policy should aim to maintain just and honourable relations between nations.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Nehru viewed that a country’s foreign policy should be respectful towards international laws and treaties.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Nehru believed that a country’s foreign policy should be guided solely by national interests.", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 83,
+        "question": "Which of the following statements is incorrect regarding Nehru’s views on nationalism and internationalism?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Nehru believed that nationalism and internationalism could co-exist.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Nehru considered cooperation among the nations necessary for their survival and progress.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Nehru advocated eliminating war as it creates an environment of mutual hatred and fear", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Nehru was a vocal critic of the idea of nation and nationalism.", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 84,
+        "question": "Which of the following political parties was founded by B R Ambedkar?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Swatantra Party", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Praja Socialist Party", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Independent Labour Party", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Bahujan Samaj Party", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 85,
+        "question": "Read the following two statements and choose the correct option from below:\n\nStatement-I: Ambedkar argued that caste was the major hindrance towards the formation of a united political community in India.\nStatement-II: The caste system, Ambedkar argued, maintained its hierarchies primarily by voluntary submissions of people characterised by ‘an ascending scale of reverence and a descending scale of contempt’.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Only Statement-I is correct.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Only Statement-II is correct.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Both Statement-I &II are correct.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Neither Statement-I nor Statement-II is correct.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 86,
+        "question": "In 1924, Ambedkar founded the Bahishkrit Hitakarini Sabha (Group for the Wellbeing of the Excluded). From the following sentences, choose the one that is not correct regarding the same.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Bahishkrit Hitakarini Sabha was an embodiment of Ambedkar’s intensive campaign for social reform", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Bahishkrit Hitakarini Sabha was primarily formed to participate in electoral politics.", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Bahishkrit Hitakarini Sabha was formed to promote socio-political awareness among the Dalits.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Bahishkrit Hitakarini Sabha also aimed to raise public awareness about the grievances faced by the Dalits.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 87,
+        "question": "From the following statements, choose the correct one regarding Ambedkar’s criticism of the caste system.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Ambedkar held that caste had killed the public spirit in India.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Ambedkar held that caste had destroyed the sense of public charity in India.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Ambedkar held that caste had made public opinion impossible in India.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "All of these.", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 88,
+        "question": "Which of the following was not one among the five tenets of the Panchsheel Agreement as signed in 1954?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Peaceful co-existence.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Respect towards each other’s sovereignty and territorial integrity.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Non-interference in each other’s domestic matters.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Mediation by a third party during conflict.", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 89,
+        "question": "Who among the following is the author of Foreign Elements in the Hindu Population?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "B R Ambedkar", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Jawaharlal Nehru", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "D R Bhandarkar", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "V D Savarkar", "isCorrect": false, "image": ""}
+        ]
+    }
+]

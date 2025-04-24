@@ -1,0 +1,122 @@
+[
+    {
+        "id": 40,
+        "question": "Mahatma Gandhi started his political activism in which of the following countries?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Sri Lanka", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "South Africa", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Morocco", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Cuba", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 41,
+        "question": "Mahatma Gandhi started his political activism in India with which of the following agitations?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Quit India Movement", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Non-cooperation Movement", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Champaran Satyagraha", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Civil Disobedience Movement", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 42,
+        "question": "Mahatma Gandhi was a voracious reader interested in writings from around the world. One of the major writings that greatly influenced him was ‘Life Without Principles’. Who among the following writers had authored this text?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Henry David Thoreau", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "Martin Luther King", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Nelson Mandela", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Ruskin Bond", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 43,
+        "question": "According to Mahatma Gandhi, which one among the following is not an ideal virtue of a Satyagrahi?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Chastity", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Selfishness", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Truthfulness", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Fearlessness", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 44,
+        "question": "From the following statements, choose the one that is not correct regarding Mahatma Gandhi’s ideas on Satyagraha.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Satyagraha, understood as the combination of two words- satya and agraha, implies the insistence on truth.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Satyagraha is not merely a means of opposing authority, but it equally emphasises the practice of love and morality to strengthen society.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Satyagraha relies on both violent and non-violent methods of opposition.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Satyagraha relies on the self-suffering of the satyagrahi.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 45,
+        "question": "Read the following two statements and choose the correct option from below:\n\nStatement I: Mahatma Gandhi was sceptical of the uncontrolled madness behind the machinery. In his view, the usage of machinery should be guided by moral considerations regarding how men should conduct their lives.\nStatement II: Mahatma Gandhi also argued that the increasing use of technology and machinery could result in massive unemployment.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Only Statement I is correct.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Only Statement II is correct.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Both Statement I & II are correct.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Neither statement I nor II is correct.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 46,
+        "question": "Who classified the political philosophy of Mahatma Gandhi as 'Pax Gandhiana'?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Ramchandra Guha", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Granville Austin", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Anthony J Parel", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "V R Mehta", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 47,
+        "question": "From the following statements, choose the one that is not correct regarding Mahatma Gandhi’s vision for future India.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Mahatma Gandhi envisioned India as a spiritually enlightened society.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Mahatma Gandhi argued that self-purification could bring spiritual emancipation and lead to a spiritually enlightened society.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "In the vision of Mahatma Gandhi, a spiritually enlightened society will be an egalitarian society.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Mahatma Gandhi held that a centralised polity with modern technologies is a prerequisite for the existence of a spiritually enlightened society.", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 48,
+        "question": "According to Mahatma Gandhi, the European society was—",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "A politically corrupt society", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "A spiritual society", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "A non-violent society", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "An embodiment of social justice", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 49,
+        "question": "On which of the following issues was there a significant disagreement between Mahatma Gandhi and B.R. Ambedkar?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Swaraj", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Varnashrama Dharma", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Ahimsa", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Sarvodaya", "isCorrect": false, "image": ""}
+        ]
+    }
+]

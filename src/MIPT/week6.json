@@ -1,0 +1,122 @@
+[
+    {
+        "id": 50,
+        "question": "Read the following two statements and choose the correct option from below:\n\nStatement-I: Muhammad Iqbal criticised the Indian National Congress as it was mostly dominated by the Hindus.\nStatement-II: However, Iqbal equally appreciated the secular outlook of the Indian National Congress towards politics and the state.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Only Statement-I is correct.", "isCorrect": true, "image": ""},
+            {"id": 2, "text": "Only Statement-II is correct.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Both Statements-I &II are correct.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Neither Statement-I nor Statement II is correct.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 51,
+        "question": "Which one among the following best describes the meaning of the term ‘Khudi’ as described by Iqbal?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Respect", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Self-Affirmation or ego", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Ethics", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Morality", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 52,
+        "question": "In his book, ‘The Reconstruction of Religious Thought in Islam’, Iqbal emphasises the re-examination and reconstruction of the philosophy of Islam. From the following statements, choose the one that is not correct regarding Iqbal’s views on that matter.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Iqbal’s emphasis on the need to reconstruct the philosophy of Islam originated in his understanding that Islam was experiencing a period of stagnation, which was leaving it behind other philosophical traditions.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "For such a reconstruction to be made possible, Iqbal argued, a sharp break from the past was more than necessary.", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Iqbal believed that modern knowledge, reason and democracy could lead to such reconstruction.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Iqbal considered such reconstruction necessary because it could help men achieve moral perfection, thus leading to socio-economic transformation and justice.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 53,
+        "question": "Which of the following political organizations was Iqbal associated with?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Justice Party", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Azad Hind Fauj", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Muslim League", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Hindu Mahasabha", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 54,
+        "question": "What was ‘Islam’ for Muhammad Iqbal?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "For Iqbal, Islam was a philosophy of life.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "For Iqbal, Islam was a way of living.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "For Iqbal, Islam was the embodiment of certain historical and cultural traditions and social and legal institutions.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "All of these.", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 55,
+        "question": "From the following statements, choose the one that is not correct regarding Iqbal’s views on Sufism.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Iqbal was very critical of the negative attitude of Sufism towards reason and rationalistic philosophy.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Iqbal accepted the teachings of Sufism on the role of intuition in the process of cognition.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Iqbal acknowledged that the mysticism of Sufism was essential for the overall development of human personality.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Iqbal was also critical of Sufism’s preaching of men’s withdrawal from the real world.", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 56,
+        "question": "Who among the following is considered the national poet of Pakistan?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Mirza Galib", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Muhammad Iqbal", "isCorrect": true, "image": ""},
+            {"id": 3, "text": "Kaifi Azmi", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Akbar Allahabadi", "isCorrect": false, "image": ""}
+        ]
+    },
+    {
+        "id": 57,
+        "question": "According to Iqbal, what are the essential components of an ideal Muslim community?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Only Homogeneity", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Only Unity", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Neither unity nor homogeneity", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Both the unity and homogeneity.", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 58,
+        "question": "Which one among the following sentences is not correct regarding the religious and political thought of Muhammad Iqbal?",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Muhammad Iqbal emphasised the self and the human spirit.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Muhammad Iqbal emphasised the capacity for self-determination.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Muhammad Iqbal emphasised the self at the service of the divine.", "isCorrect": false, "image": ""},
+            {"id": 4, "text": "Muhammad Iqbal did not emphasise the self within a community.", "isCorrect": true, "image": ""}
+        ]
+    },
+    {
+        "id": 59,
+        "question": "Read the following two statements and choose the correct option from below:\n\nStatement I: Muhammad Iqbal tried to find a spiritual expression of anticolonialism in religion.\nStatement II: Through religion, Iqbal searched for an alternate path of development distinct from the West.",
+        "questionImage": "",
+        "multicorrect": false,
+        "options": [
+            {"id": 1, "text": "Only Statement-I is correct.", "isCorrect": false, "image": ""},
+            {"id": 2, "text": "Only Statement-II is correct.", "isCorrect": false, "image": ""},
+            {"id": 3, "text": "Both Statements -I &II are correct.", "isCorrect": true, "image": ""},
+            {"id": 4, "text": "Neither Statement-I nor Statement II is correct.", "isCorrect": false, "image": ""}
+        ]
+    }
+]
